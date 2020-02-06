@@ -63,7 +63,7 @@ HTMLCollection by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/HTM
 
 **_HTMLElement by Mozilla_** <br />
 HTMLElement.click() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/click <br />
-JavaScript Element.scrollTop by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollTop <br />
+Element.scrollTop by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollTop <br />
 
 **_Node by Mozilla_** <br />
 Node.parentElement by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/parentElement <br />
