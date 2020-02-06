@@ -8,7 +8,7 @@ My works related to Application Programming Interface (API)
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="API.png" height="200"> 
+<img src="API.png" height="150"> 
 An application programming interface (API) is an interface or communication protocol between different parts of a computer program intended to simplify the implementation and maintenance of software. An API may be for a web-based system, operating system, database system, computer hardware, or software library. The API is not the database or even the server, it is the code that governs the access point(s) for the server. <br /><br />
 
 Application programming interface (API) is the system of tools and resources in an operating system enabling developers to create software applications. An API specification can take many forms, but often includes specifications for routines, data structures, object classes, variables, or remote calls. POSIX, Windows API and ASPI are examples of different forms of APIs. Documentation for the API usually is provided to facilitate usage and implementation.
