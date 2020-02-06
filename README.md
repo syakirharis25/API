@@ -41,6 +41,7 @@ Document.body by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Docu
 Document.head by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/head <br />
 Document.querySelector() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector <br />
 Document.querySelectorAll() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll <br />
+Document.cookie by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie <br />
 
 **_Document Object Model (DOM) by Mozilla_** <br />
 Locating DOM elements using selectors by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors <br />
@@ -83,7 +84,7 @@ Window.alert() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Win
 Window by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window <br />
 Window.scroll() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/scroll <br />
 Window.innerHeight by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/innerHeight <br />
-Window.sessionStorage by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage
+Window.sessionStorage by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage <br />
 
 **_WindowOrWorkerGlobalScope by Mozilla_** <br />
 WindowOrWorkerGlobalScope.setInterval() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval <br />
@@ -93,8 +94,7 @@ JavaScript WindowOrWorkerGlobalScope.setTimeout() by Mozilla : https://developer
 **_XMLHttpRequest by Mozilla_** <br />
 Using XMLHttpRequest by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest <br />
 
-**_API by Mozilla_** <br />
-Window.localStorage by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage  <br />
+**_Storage by Mozilla_** <br />
 Storage.setItem() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Storage/setItem  <br />
 Storage.getItem() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Storage/getItem  <br />
 
