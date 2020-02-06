@@ -92,6 +92,10 @@ JavaScript WindowOrWorkerGlobalScope.setTimeout() by Mozilla : https://developer
 **_XMLHttpRequest by Mozilla_** <br />
 Using XMLHttpRequest by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest <br />
 
+**_API by Mozilla_** <br />
+Window.localStorage by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+Storage.setItem() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Storage/setItem
+
 <a name="github"></a>
 ## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
