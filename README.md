@@ -83,6 +83,7 @@ Window.alert() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Win
 Window by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window <br />
 Window.scroll() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/scroll <br />
 Window.innerHeight by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/innerHeight <br />
+Window.sessionStorage by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage
 
 **_WindowOrWorkerGlobalScope by Mozilla_** <br />
 WindowOrWorkerGlobalScope.setInterval() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval <br />
