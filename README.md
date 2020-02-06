@@ -93,8 +93,9 @@ JavaScript WindowOrWorkerGlobalScope.setTimeout() by Mozilla : https://developer
 Using XMLHttpRequest by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest <br />
 
 **_API by Mozilla_** <br />
-Window.localStorage by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
-Storage.setItem() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Storage/setItem
+Window.localStorage by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage  <br />
+Storage.setItem() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Storage/setItem  <br />
+Storage.getItem() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Storage/getItem  <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
