@@ -20,6 +20,25 @@ To summarize, when a company offers an API to their customers, it just means tha
 <a name="shortcuts"></a>
 ## 2. Official references websites.
 
+**_console API by Mozilla_** <br />
+console.error() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/error <br />
+console.log() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/log <br />
+console.warn() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/warn <br />
+console.assert() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/console/assert <br />
+console.dir() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/dir <br />
+console.table() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/table <br />
+console.clear() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/clear <br />
+console.group() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/group <br />
+console.groupEnd() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/groupEnd <br />
+console.time() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/time <br />
+console.timeEnd() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/timeEnd <br />
+
+**_Document API by Mozilla_** <br />
+Document by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document <br />
+Document.URL by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/URL <br />
+Document.body by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/body <br />
+Document.head by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/head <br />
+
 <a name="github"></a>
 ## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
