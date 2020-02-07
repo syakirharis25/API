@@ -19,6 +19,7 @@ To summarize, when a company offers an API to their customers, it just means tha
 
 <a name="shortcuts"></a>
 ## 2. Official references websites.
+Mozilla official website : https://www.mozilla.org <br />
 
 **_console API by Mozilla_** <br />
 console.error() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/error <br />
