@@ -1,5 +1,5 @@
 # API
-My works related to Application Programming Interface (API)
+My works related to Application Programming Interface (API).
 
 ## Table of Contents
 1. [Introduction.](#introduction)
