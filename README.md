@@ -43,6 +43,7 @@ Document.head by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Docu
 Document.querySelector() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector <br />
 Document.querySelectorAll() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll <br />
 Document.cookie by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie <br />
+Document.height by Mozilla :https://developer.mozilla.org/en-US/docs/Web/API/Document/height
 
 **_Document Object Model (DOM) by Mozilla_** <br />
 Locating DOM elements using selectors by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors <br />
@@ -53,6 +54,7 @@ Element.setAttribute() by Mozilla : https://developer.mozilla.org/en-US/docs/Web
 Element.classList by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/classList <br />
 Element: mouseenter event by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseenter_event <br />
 Element: mouseleave event by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseleave_event <br />
+Element.scroll() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/scroll <br />
 
 **_Event by Mozilla_** <br />
 Event by Mozilla : https://developer.mozilla.org/en-US/docs/web/api/event <br />
