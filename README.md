@@ -53,6 +53,7 @@ Document.getElementById() by Mozilla : https://developer.mozilla.org/en-US/docs/
 Locating DOM elements using selectors by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors <br />
 
 **_Element API by Mozilla_** <br />
+Element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element <br />
 Element.innerHTML by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML <br />
 Element.setAttribute() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute <br />
 Element.classList by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/classList <br />
