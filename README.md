@@ -46,6 +46,7 @@ Document.querySelector() by Mozilla : https://developer.mozilla.org/en-US/docs/W
 Document.querySelectorAll() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll <br />
 Document.cookie by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie <br />
 Document.height by Mozilla :https://developer.mozilla.org/en-US/docs/Web/API/Document/height
+Document.createDocumentFragment() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/createDocumentFragment <br />
 
 **_Document Object Model (DOM) by Mozilla_** <br />
 Locating DOM elements using selectors by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors <br />
