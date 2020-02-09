@@ -102,6 +102,7 @@ JavaScript WindowOrWorkerGlobalScope.setTimeout() by Mozilla : https://developer
 XMLHttpRequest.responseText by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/responseText <br />
 XMLHttpRequest by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest <br />
 Using XMLHttpRequest by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest <br />
+XMLHttpRequest.send() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/send <br />
 
 **_Storage by Mozilla_** <br />
 Storage.setItem() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Storage/setItem  <br />
