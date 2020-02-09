@@ -47,11 +47,12 @@ Document.querySelectorAll() by Mozilla : https://developer.mozilla.org/en-US/doc
 Document.cookie by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie <br />
 Document.height by Mozilla :https://developer.mozilla.org/en-US/docs/Web/API/Document/height
 Document.createDocumentFragment() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/createDocumentFragment <br />
+Document.getElementById() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById <br />
 
 **_Document Object Model (DOM) by Mozilla_** <br />
 Locating DOM elements using selectors by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors <br />
 
-**_Element by Mozilla_** <br />
+**_Element API by Mozilla_** <br />
 Element.innerHTML by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML <br />
 Element.setAttribute() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute <br />
 Element.classList by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/classList <br />
@@ -60,52 +61,52 @@ Element: mouseleave event by Mozilla : https://developer.mozilla.org/en-US/docs/
 Element.scroll() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/scroll <br />
 Element.scrollTop by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollTop
 
-**_Event by Mozilla_** <br />
+**_Event API by Mozilla_** <br />
 Event by Mozilla : https://developer.mozilla.org/en-US/docs/web/api/event <br />
 EventListener by Mozilla :https://developer.mozilla.org/en-US/docs/Web/API/EventListener <br />
 Event.preventDefault() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault <br />
 Event.stopPropagation() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation <br />
 
-**_HTMLCollection by Mozilla_** <br />
+**_HTMLCollection API by Mozilla_** <br />
 HTMLCollection by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection <br />
 
-**_HTMLElement by Mozilla_** <br />
+**_HTMLElement API by Mozilla_** <br />
 HTMLElement.click() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/click <br />
 Element.scrollTop by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollTop <br />
 
-**_Node by Mozilla_** <br />
+**_Node API by Mozilla_** <br />
 Node.parentElement by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/parentElement <br />
 Node.nextSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/nextSibling <br />
 Node.previousSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/previousSibling <br />
 Node.textContent by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent <br />
 
-**_NodeList by Mozilla_** <br />
+**_NodeList API by Mozilla_** <br />
 NodeList by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NodeList <br />
 
-**_NonDocumentTypeChildNode by Mozilla_** <br />
+**_NonDocumentTypeChildNode API by Mozilla_** <br />
 NonDocumentTypeChildNode.nextElementSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NonDocumentTypeChildNode/nextElementSibling <br />
 NonDocumentTypeChildNode.previousElementSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NonDocumentTypeChildNode/previousElementSibling <br />
 
-**_Window by Mozilla_** <br />
+**_Window API by Mozilla_** <br />
 Window.alert() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/alert <br />
 Window by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window <br />
 Window.scroll() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/scroll <br />
 Window.innerHeight by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/innerHeight <br />
 Window.sessionStorage by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage <br />
 
-**_WindowOrWorkerGlobalScope by Mozilla_** <br />
+**_WindowOrWorkerGlobalScope API by Mozilla_** <br />
 WindowOrWorkerGlobalScope.setInterval() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval <br />
 WindowOrWorkerGlobalScope.clearInterval() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/clearInterval <br />
 JavaScript WindowOrWorkerGlobalScope.setTimeout() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout <br />
 
-**_XMLHttpRequest by Mozilla_** <br />
+**_XMLHttpRequest API by Mozilla_** <br />
 XMLHttpRequest.responseText by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/responseText <br />
 XMLHttpRequest by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest <br />
 Using XMLHttpRequest by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest <br />
 XMLHttpRequest.send() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/send <br />
 XMLHttpRequest.open() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/open <br />
 
-**_Storage by Mozilla_** <br />
+**_Storage API by Mozilla_** <br />
 Storage.setItem() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Storage/setItem  <br />
 Storage.getItem() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Storage/getItem  <br />
 
