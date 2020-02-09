@@ -103,6 +103,7 @@ XMLHttpRequest.responseText by Mozilla : https://developer.mozilla.org/en-US/doc
 XMLHttpRequest by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest <br />
 Using XMLHttpRequest by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest <br />
 XMLHttpRequest.send() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/send <br />
+XMLHttpRequest.open() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/open <br />
 
 **_Storage by Mozilla_** <br />
 Storage.setItem() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Storage/setItem  <br />
