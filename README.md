@@ -21,6 +21,8 @@ To summarize, when a company offers an API to their customers, it just means tha
 ## 2. Official references websites.
 Mozilla official website : https://www.mozilla.org <br />
 
+OMDb API : http://www.omdbapi.com <br />
+
 **_console API by Mozilla_** <br />
 console.error() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/error <br />
 console.log() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/log <br />
