@@ -98,6 +98,8 @@ WindowOrWorkerGlobalScope.clearInterval() by Mozilla : https://developer.mozilla
 JavaScript WindowOrWorkerGlobalScope.setTimeout() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout <br />
 
 **_XMLHttpRequest by Mozilla_** <br />
+XMLHttpRequest.responseText by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/responseText <br />
+XMLHttpRequest by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest <br />
 Using XMLHttpRequest by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest <br />
 
 **_Storage by Mozilla_** <br />
