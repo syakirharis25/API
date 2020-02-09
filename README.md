@@ -68,6 +68,9 @@ EventListener by Mozilla :https://developer.mozilla.org/en-US/docs/Web/API/Event
 Event.preventDefault() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault <br />
 Event.stopPropagation() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation <br />
 
+**_Fetch API by Mozilla_** <br />
+Fetch API by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API <br />
+
 **_HTMLCollection API by Mozilla_** <br />
 HTMLCollection by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection <br />
 
