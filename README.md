@@ -88,12 +88,19 @@ NodeList by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NodeList 
 NonDocumentTypeChildNode.nextElementSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NonDocumentTypeChildNode/nextElementSibling <br />
 NonDocumentTypeChildNode.previousElementSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NonDocumentTypeChildNode/previousElementSibling <br />
 
+**_Response API by Mozilla_** <br />
+Response by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Response <br />
+Response.status by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Response/status <br />
+US <br />
+Response() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Response/Response <br />
+
 **_Window API by Mozilla_** <br />
 Window.alert() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/alert <br />
 Window by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window <br />
 Window.scroll() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/scroll <br />
 Window.innerHeight by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/innerHeight <br />
 Window.sessionStorage by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage <br />
+Window.status by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/status <br />
 
 **_WindowOrWorkerGlobalScope API by Mozilla_** <br />
 WindowOrWorkerGlobalScope.setInterval() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval <br />
@@ -106,6 +113,7 @@ XMLHttpRequest by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XML
 Using XMLHttpRequest by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest <br />
 XMLHttpRequest.send() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/send <br />
 XMLHttpRequest.open() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/open <br />
+XMLHttpRequest.onreadystatechange by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/onreadystatechange <br />
 
 **_Storage API by Mozilla_** <br />
 Storage.setItem() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Storage/setItem  <br />
