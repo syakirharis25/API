@@ -91,6 +91,10 @@ NodeList by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NodeList 
 NonDocumentTypeChildNode.nextElementSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NonDocumentTypeChildNode/nextElementSibling <br />
 NonDocumentTypeChildNode.previousElementSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NonDocumentTypeChildNode/previousElementSibling <br />
 
+**_Promise API by Mozilla_** <br />
+Promise.prototype.then() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then <br />
+Using Promises by Mozilla : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises <br />
+
 **_Response API by Mozilla_** <br />
 Response by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Response <br />
 Response.status by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Response/status <br />
