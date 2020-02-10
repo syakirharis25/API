@@ -70,6 +70,7 @@ Event by Mozilla : https://developer.mozilla.org/en-US/docs/web/api/event <br />
 EventListener by Mozilla :https://developer.mozilla.org/en-US/docs/Web/API/EventListener <br />
 Event.preventDefault() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault <br />
 Event.stopPropagation() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation <br />
+Event.target by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Event/target <br />
 
 **_EventTarget API by Mozilla_** <br />
 EventTarget.addEventListener() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener <br />
