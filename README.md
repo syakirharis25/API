@@ -49,6 +49,9 @@ Document.height by Mozilla :https://developer.mozilla.org/en-US/docs/Web/API/Doc
 Document.createDocumentFragment() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/createDocumentFragment <br />
 Document.getElementById() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById <br />
 
+**_Body API by Mozilla_** <br />
+Body.json() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Body/json <br />
+
 **_Document Object Model (DOM) by Mozilla_** <br />
 Locating DOM elements using selectors by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors <br />
 
