@@ -107,6 +107,11 @@ Response by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Response 
 Response.status by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Response/status <br />
 US <br />
 Response() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Response/Response <br />
+Response.statusText by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Response/statusText
+
+**_Storage API by Mozilla_** <br />
+Storage.setItem() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Storage/setItem  <br />
+Storage.getItem() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Storage/getItem  <br />
 
 **_Window API by Mozilla_** <br />
 Window.alert() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Window/alert <br />
@@ -128,10 +133,6 @@ Using XMLHttpRequest by Mozilla : https://developer.mozilla.org/en-US/docs/Web/A
 XMLHttpRequest.send() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/send <br />
 XMLHttpRequest.open() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/open <br />
 XMLHttpRequest.onreadystatechange by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/onreadystatechange <br />
-
-**_Storage API by Mozilla_** <br />
-Storage.setItem() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Storage/setItem  <br />
-Storage.getItem() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Storage/getItem  <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
