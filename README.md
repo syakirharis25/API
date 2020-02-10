@@ -63,7 +63,7 @@ Element.classList by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/
 Element: mouseenter event by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseenter_event <br />
 Element: mouseleave event by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseleave_event <br />
 Element.scroll() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/scroll <br />
-Element.scrollTop by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollTop
+Element.scrollTop by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollTop <br />
 
 **_Event API by Mozilla_** <br />
 Event by Mozilla : https://developer.mozilla.org/en-US/docs/web/api/event <br />
@@ -82,7 +82,7 @@ HTMLCollection by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/HTM
 
 **_HTMLElement API by Mozilla_** <br />
 HTMLElement.click() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/click <br />
-Element.scrollTop by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollTop <br />
+HTMLElement.dataset by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset <br />
 
 **_Node API by Mozilla_** <br />
 Node.parentElement by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/parentElement <br />
