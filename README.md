@@ -52,9 +52,11 @@ Document.getElementById() by Mozilla : https://developer.mozilla.org/en-US/docs/
 
 **_Body API by Mozilla_** <br />
 Body.json() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Body/json <br />
+https://developer.mozilla.org/en-US/docs/Web/API/Body/arrayBuffer <br />
 
 **_Document Object Model (DOM) by Mozilla_** <br />
 Locating DOM elements using selectors by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors <br />
+Body.arrayBuffer() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Body/arrayBuffer <br />
 
 **_Element API by Mozilla_** <br />
 Element by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Element <br />
