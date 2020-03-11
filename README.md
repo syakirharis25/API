@@ -81,6 +81,9 @@ EventTarget.addEventListener() by Mozilla : https://developer.mozilla.org/en-US/
 **_Fetch API by Mozilla_** <br />
 Fetch API by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API <br />
 
+**_HTMLButtonElement by Mozilla_** <br />
+HTMLButtonElement by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/HTMLButtonElement <br />
+
 **_HTMLCollection API by Mozilla_** <br />
 HTMLCollection by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection <br />
 
