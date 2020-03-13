@@ -140,6 +140,9 @@ XMLHttpRequest.send() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/
 XMLHttpRequest.open() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/open <br />
 XMLHttpRequest.onreadystatechange by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/onreadystatechange <br />
 
+**_API related articles_** <br />
+Using Fetch by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch <br />
+
 <a name="github"></a>
 ## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
