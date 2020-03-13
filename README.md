@@ -22,7 +22,9 @@ To summarize, when a company offers an API to their customers, it just means tha
 ## 2. Official references websites.
 Mozilla official website : https://www.mozilla.org <br />
 
+**_API related projects_**
 OMDb API : http://www.omdbapi.com <br />
+The Star Wars API : https://swapi.co <br />
 
 **_console API by Mozilla_** <br />
 console.error() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/error <br />
