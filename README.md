@@ -80,6 +80,7 @@ Event.target by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Event
 
 **_EventTarget API by Mozilla_** <br />
 EventTarget.addEventListener() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener <br />
+EventTarget.removeEventListener() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/removeEventListener <br />
 
 **_Fetch API by Mozilla_** <br />
 Fetch API by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API <br />
