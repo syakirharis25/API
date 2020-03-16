@@ -100,6 +100,7 @@ Node.parentElement by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API
 Node.nextSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/nextSibling <br />
 Node.previousSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/previousSibling <br />
 Node.textContent by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent <br />
+Node.nodeValue by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/nodeValue <br />
 
 **_NodeList API by Mozilla_** <br />
 NodeList by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/NodeList <br />
