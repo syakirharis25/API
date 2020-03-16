@@ -95,6 +95,9 @@ HTMLCollection by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/HTM
 HTMLElement.click() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/click <br />
 HTMLElement.dataset by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset <br />
 
+**_HTMLInputElement API by Mozilla_** <br />
+HTMLInputElement by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement <br />
+
 **_Node API by Mozilla_** <br />
 Node.parentElement by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/parentElement <br />
 Node.nextSibling by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Node/nextSibling <br />
