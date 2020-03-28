@@ -4,8 +4,10 @@ My works related to Application Programming Interface (API).
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
-4. [GitHub repository calculation.](#calculation)
+3. [API by Microsoft.](#microsoft)
+4. [API by Mozilla.](#mozilla)
+5. [GitHub notes.](#github)
+6. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -21,12 +23,59 @@ To summarize, when a company offers an API to their customers, it just means tha
 <a name="shortcuts"></a>
 ## 2. Official references websites.
 Mozilla official website : https://www.mozilla.org <br />
+Microsoft official website : https://www.microsoft.com <br />
 
 **_API related projects_** <br />
 OMDb API : http://www.omdbapi.com <br />
 The Star Wars API : https://swapi.co <br />
 The Star Wars API documentation : https://swapi.co/documentation <br />
 
+**_API related articles_** <br />
+Using Fetch by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch <br />
+
+<a name="microsoft"></a>
+## 3. API by Microsoft
+**_Console API by Microsoft_** <br />
+Console Class : https://docs.microsoft.com/en-us/dotnet/api/system.console?view=netframework-4.8 <br />
+Console.WriteLine Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.writeline?view=netframework-4.8 <br />
+Console.ReadLine Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.readline?view=netframework-4.8 <br />
+
+**_Convert API by Microsoft_** <br />
+Convert.ToInt32 Method : https://docs.microsoft.com/en-us/dotnet/api/system.convert.toint32?view=netframework-4.8 <br />
+Convert.ToDouble Method : https://docs.microsoft.com/en-us/dotnet/api/system.convert.todouble?view=netframework-4.8 <br />
+Console.Write Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.write?view=netframework-4.8 <br />
+Convert Class : https://docs.microsoft.com/en-us/dotnet/api/system.convert?view=netframework-4.8 <br />
+
+**_Math API by Microsoft_** <br />
+Math Class : https://docs.microsoft.com/en-us/dotnet/api/system.math?view=netframework-4.8 <br />
+Math.Abs Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.abs?view=netframework-4.8 <br />
+Math.Pow(Double, Double) Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.pow?view=netframework-4.8 <br />
+Math.Sqrt(Double) Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.sqrt?view=netframework-4.8 <br />
+Math.Max Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.max?view=netframework-4.8 <br />
+Math.Min Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.min?view=netframework-4.8 <br />
+Math.Round Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.round?view=netframework-4.8 <br />
+
+**_String API by Microsoft_** <br />
+String.Length Property : https://docs.microsoft.com/en-us/dotnet/api/system.string.length?view=netframework-4.8 <br />
+String.ToUpper Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.toupper?view=netframework-4.8 <br />
+String.ToLower Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.tolower?view=netframework-4.8 <br />
+String.Contains Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.contains?view=netframework-4.8 <br />
+String.IndexOf Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.indexof?view=netframework-4.8 <br />
+String.Substring Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.substring?view=netframework-4.8 <br />
+
+**_System API by Microsoft_** <br />
+System Namespace : https://docs.microsoft.com/en-us/dotnet/api/system?view=netframework-4.8 <br />
+System.Collections Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.collections?view=netframework-4.8 <br />
+System.Collections.Generic Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic?view=netframework-4.8 <br />
+System.Linq Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.linq?view=netframework-4.8 <br />
+System.Text Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.text?view=netframework-4.8 <br />
+System.Threading Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.threading?view=netframework-4.8 <br />
+
+**_Task API by Microsoft_** <br />
+Task Class : https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=netframework-4.8 <br />
+
+<a name="mozilla"></a>
+## 4. API by Mozilla
 **_console API by Mozilla_** <br />
 console.error() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/error <br />
 console.log() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Console/log <br />
@@ -147,9 +196,6 @@ Using XMLHttpRequest by Mozilla : https://developer.mozilla.org/en-US/docs/Web/A
 XMLHttpRequest.send() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/send <br />
 XMLHttpRequest.open() by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/open <br />
 XMLHttpRequest.onreadystatechange by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/onreadystatechange <br />
-
-**_API related articles_** <br />
-Using Fetch by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
