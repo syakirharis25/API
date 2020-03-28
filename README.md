@@ -49,6 +49,7 @@ Convert Class : https://docs.microsoft.com/en-us/dotnet/api/system.convert?view=
 **_Exception API by Microsoft_** <br />
 Exception Class : https://docs.microsoft.com/en-us/dotnet/api/system.exception?view=netframework-4.8 <br />
 DivideByZeroException Class : https://docs.microsoft.com/en-us/dotnet/api/system.dividebyzeroexception?view=netframework-4.8 <br />
+FormatException Class : https://docs.microsoft.com/en-us/dotnet/api/system.formatexception?view=netframework-4.8 <br />
 
 **_Math API by Microsoft_** <br />
 Math Class : https://docs.microsoft.com/en-us/dotnet/api/system.math?view=netframework-4.8 <br />
