@@ -39,6 +39,7 @@ Using Fetch by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Fetch_
 Console Class : https://docs.microsoft.com/en-us/dotnet/api/system.console?view=netframework-4.8 <br />
 Console.WriteLine Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.writeline?view=netframework-4.8 <br />
 Console.ReadLine Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.readline?view=netframework-4.8 <br />
+Console.ReadKey Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.readkey?view=netframework-4.8 <br />
 
 **_Convert API by Microsoft_** <br />
 Convert.ToInt32 Method : https://docs.microsoft.com/en-us/dotnet/api/system.convert.toint32?view=netframework-4.8 <br />
