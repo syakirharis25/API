@@ -35,6 +35,9 @@ Using Fetch by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Fetch_
 
 <a name="microsoft"></a>
 ## 3. API by Microsoft
+**_Char API by Microsoft_** <br />
+Char.IsUpper Method : https://docs.microsoft.com/en-us/dotnet/api/system.char.isupper?view=netframework-4.8 <br />
+
 **_Console API by Microsoft_** <br />
 Console Class : https://docs.microsoft.com/en-us/dotnet/api/system.console?view=netframework-4.8 <br />
 Console.WriteLine Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.writeline?view=netframework-4.8 <br />
