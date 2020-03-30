@@ -51,6 +51,9 @@ Convert.ToDouble Method : https://docs.microsoft.com/en-us/dotnet/api/system.con
 Console.Write Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.write?view=netframework-4.8 <br />
 Convert Class : https://docs.microsoft.com/en-us/dotnet/api/system.convert?view=netframework-4.8 <br />
 
+**_Dictionary API by Microsoft_** <br />
+Dictionary<TKey,TValue>.ContainsKey(TKey) Method : https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2.containskey?view=netframework-4.8 <br />
+
 **_Exception API by Microsoft_** <br />
 Exception Class : https://docs.microsoft.com/en-us/dotnet/api/system.exception?view=netframework-4.8 <br />
 DivideByZeroException Class : https://docs.microsoft.com/en-us/dotnet/api/system.dividebyzeroexception?view=netframework-4.8 <br />
