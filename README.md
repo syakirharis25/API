@@ -59,6 +59,9 @@ Exception Class : https://docs.microsoft.com/en-us/dotnet/api/system.exception?v
 DivideByZeroException Class : https://docs.microsoft.com/en-us/dotnet/api/system.dividebyzeroexception?view=netframework-4.8 <br />
 FormatException Class : https://docs.microsoft.com/en-us/dotnet/api/system.formatexception?view=netframework-4.8 <br />
 
+**_HttpResponseWritingExtensions API by Microsoft_** <br />
+HttpResponseWritingExtensions.WriteAsync Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.httpresponsewritingextensions.writeasync?view=aspnetcore-3.1
+
 **_IHostBuilder API by Microsoft_** <br />
 IHostBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.ihostbuilder?view=dotnet-plat-ext-3.1 <br />
 
