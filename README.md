@@ -59,6 +59,9 @@ Exception Class : https://docs.microsoft.com/en-us/dotnet/api/system.exception?v
 DivideByZeroException Class : https://docs.microsoft.com/en-us/dotnet/api/system.dividebyzeroexception?view=netframework-4.8 <br />
 FormatException Class : https://docs.microsoft.com/en-us/dotnet/api/system.formatexception?view=netframework-4.8 <br />
 
+**_IHostBuilder API by Microsoft_** <br />
+IHostBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.ihostbuilder?view=dotnet-plat-ext-3.1 <br />
+
 **_Math API by Microsoft_** <br />
 Math Class : https://docs.microsoft.com/en-us/dotnet/api/system.math?view=netframework-4.8 <br />
 Math.Abs Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.abs?view=netframework-4.8 <br />
