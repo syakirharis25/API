@@ -48,6 +48,9 @@ Console.WriteLine Method : https://docs.microsoft.com/en-us/dotnet/api/system.co
 Console.ReadLine Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.readline?view=netframework-4.8 <br />
 Console.ReadKey Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.readkey?view=netframework-4.8 <br />
 
+**_Content API by Microsoft_** <br />
+Content Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.webcontrols.content?view=netframework-4.8 <br />
+
 **_Convert API by Microsoft_** <br />
 Convert.ToInt32 Method : https://docs.microsoft.com/en-us/dotnet/api/system.convert.toint32?view=netframework-4.8 <br />
 Convert.ToDouble Method : https://docs.microsoft.com/en-us/dotnet/api/system.convert.todouble?view=netframework-4.8 <br />
@@ -65,11 +68,21 @@ Exception Class : https://docs.microsoft.com/en-us/dotnet/api/system.exception?v
 DivideByZeroException Class : https://docs.microsoft.com/en-us/dotnet/api/system.dividebyzeroexception?view=netframework-4.8 <br />
 FormatException Class : https://docs.microsoft.com/en-us/dotnet/api/system.formatexception?view=netframework-4.8 <br />
 
+**_Grid API by Microsoft_** <br />
+Grid Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.grid?view=netframework-4.8 <br />
+Grid.RowDefinitions Property : https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.grid.rowdefinitions?view=netframework-4.8 <br />
+
+**_HorizontalAlignment API by Microsoft_** <br />
+HorizontalAlignment Enum : https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.horizontalalignment?view=netframework-4.8 <br />
+
 **_HttpResponseWritingExtensions API by Microsoft_** <br />
 HttpResponseWritingExtensions.WriteAsync Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.httpresponsewritingextensions.writeasync?view=aspnetcore-3.1
 
 **_IHostBuilder API by Microsoft_** <br />
 IHostBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.ihostbuilder?view=dotnet-plat-ext-3.1 <br />
+
+**_Label API by Microsoft_** <br />
+Label Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.label?view=netframework-4.8 <br />
 
 **_Math API by Microsoft_** <br />
 Math Class : https://docs.microsoft.com/en-us/dotnet/api/system.math?view=netframework-4.8 <br />
@@ -79,6 +92,9 @@ Math.Sqrt(Double) Method : https://docs.microsoft.com/en-us/dotnet/api/system.ma
 Math.Max Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.max?view=netframework-4.8 <br />
 Math.Min Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.min?view=netframework-4.8 <br />
 Math.Round Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.round?view=netframework-4.8 <br />
+
+**_RowDefinition API by Microsoft_** <br /> 
+RowDefinition Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.rowdefinition?view=netframework-4.8 <br />
 
 **_String API by Microsoft_** <br />
 String.Length Property : https://docs.microsoft.com/en-us/dotnet/api/system.string.length?view=netframework-4.8 <br />
@@ -110,8 +126,14 @@ System.Net Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.net?vi
 **_Task API by Microsoft_** <br />
 Task Class : https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=netframework-4.8 <br />
 
+**_VerticalAlignment API by Microsoft_** <br />
+VerticalAlignment Enum : https://docs.microsoft.com/en-us/dotnet/api/system.windows.verticalalignment?view=netframework-4.8 <br />
+
 **_Window API by Microsoft_** <br />
 Window Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows.window?view=netframework-4.8 <br />
+
+**_XmlAttributes API by Microsoft_** <br />
+XmlAttributes.Xmlns Property : https://docs.microsoft.com/en-us/dotnet/api/system.xml.serialization.xmlattributes.xmlns?view=netframework-4.8 <br />
 
 <a name="mozilla"></a>
 ## 4. API by Mozilla
