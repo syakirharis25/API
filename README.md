@@ -35,6 +35,9 @@ Using Fetch by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Fetch_
 
 <a name="microsoft"></a>
 ## 3. API by Microsoft
+**_Application API by Microsoft_** <br />
+Application.MainWindow Property : https://docs.microsoft.com/en-us/dotnet/api/system.windows.application.mainwindow?view=netframework-4.8 <br />
+
 **_Char API by Microsoft_** <br />
 Char.IsUpper Method : https://docs.microsoft.com/en-us/dotnet/api/system.char.isupper?view=netframework-4.8 <br />
 Char.IsDigit Method : https://docs.microsoft.com/en-us/dotnet/api/system.char.isdigit?view=netframework-4.8 <br />
