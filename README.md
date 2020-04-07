@@ -95,9 +95,23 @@ System.Collections.Generic Namespace : https://docs.microsoft.com/en-us/dotnet/a
 System.Linq Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.linq?view=netframework-4.8 <br />
 System.Text Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.text?view=netframework-4.8 <br />
 System.Threading Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.threading?view=netframework-4.8 <br />
+System.Windows.Controls Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls?view=netframework-4.8 <br />
+System.Windows.Data Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.windows.data?view=netframework-4.8 <br />
+System.Windows.Documents Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.windows.documents?view=netframework-4.8 <br />
+System.Windows.Input Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.windows.input?view=netframework-4.8 <br />
+System.Windows.Media Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.windows.media?view=netframework-4.8 <br />
+System.Windows.Media.Imaging Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.windows.media.imaging?view=netframework-4.8 <br />
+System.Windows.Navigation Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.windows.navigation?view=netframework-4.8 <br />
+System.Windows.Shapes Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.windows.shapes?view=netframework-4.8 <br />
+System.Threading.Tasks Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks?view=netframework-4.8 <br />
+System.Windows Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.windows?view=netframework-4.8 <br />
+System.Net Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.net?view=netframework-4.8 <br />
 
 **_Task API by Microsoft_** <br />
 Task Class : https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=netframework-4.8 <br />
+
+**_Window API by Microsoft_** <br />
+Window Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows.window?view=netframework-4.8 <br />
 
 <a name="mozilla"></a>
 ## 4. API by Mozilla
