@@ -68,6 +68,10 @@ Exception Class : https://docs.microsoft.com/en-us/dotnet/api/system.exception?v
 DivideByZeroException Class : https://docs.microsoft.com/en-us/dotnet/api/system.dividebyzeroexception?view=netframework-4.8 <br />
 FormatException Class : https://docs.microsoft.com/en-us/dotnet/api/system.formatexception?view=netframework-4.8 <br />
 
+**_GenericHostBuilderExtensions API by Microsoft_** <br />
+GenericHostBuilderExtensions Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.generichostbuilderextensions?view=aspnetcore-3.1 <br />
+GenericHostBuilderExtensions.ConfigureWebHostDefaults(IHostBuilder, Action<IWebHostBuilder>) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.generichostbuilderextensions.configurewebhostdefaults?view=aspnetcore-3.1 <br />
+
 **_Grid API by Microsoft_** <br />
 Grid Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.grid?view=netframework-4.8 <br />
 Grid.RowDefinitions Property : https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.grid.rowdefinitions?view=netframework-4.8 <br />
