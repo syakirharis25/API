@@ -78,6 +78,9 @@ HorizontalAlignment Enum : https://docs.microsoft.com/en-us/dotnet/api/system.wi
 **_HttpResponseWritingExtensions API by Microsoft_** <br />
 HttpResponseWritingExtensions.WriteAsync Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.httpresponsewritingextensions.writeasync?view=aspnetcore-3.1
 
+**_IConfiguration API by Microsoft_** <br />
+IConfiguration Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.configuration.iconfiguration?view=dotnet-plat-ext-3.1 <br />
+
 **_IHostBuilder API by Microsoft_** <br />
 IHostBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.ihostbuilder?view=dotnet-plat-ext-3.1 <br />
 
@@ -95,6 +98,9 @@ Math.Sqrt(Double) Method : https://docs.microsoft.com/en-us/dotnet/api/system.ma
 Math.Max Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.max?view=netframework-4.8 <br />
 Math.Min Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.min?view=netframework-4.8 <br />
 Math.Round Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.round?view=netframework-4.8 <br />
+
+**_Microsoft.Extensions.Hosting API by Microsoft_** <br />
+Microsoft.Extensions.Hosting Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting?view=dotnet-plat-ext-3.1 <br />
 
 **_RowDefinition API by Microsoft_** <br /> 
 RowDefinition Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.rowdefinition?view=netframework-4.8 <br />
