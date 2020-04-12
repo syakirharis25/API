@@ -81,6 +81,9 @@ HttpResponseWritingExtensions.WriteAsync Method : https://docs.microsoft.com/en-
 **_IHostBuilder API by Microsoft_** <br />
 IHostBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.ihostbuilder?view=dotnet-plat-ext-3.1 <br />
 
+**_IHostedService API by Microsoft_** <br />
+IHostedService Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.ihostedservice?view=dotnet-plat-ext-3.1 <br />
+
 **_Label API by Microsoft_** <br />
 Label Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.label?view=netframework-4.8 <br />
 
