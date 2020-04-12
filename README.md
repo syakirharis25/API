@@ -87,6 +87,9 @@ IHostBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.e
 **_IHostedService API by Microsoft_** <br />
 IHostedService Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.ihostedservice?view=dotnet-plat-ext-3.1 <br />
 
+**_ILoggerFactory API by Microsoft_** <br />
+ILoggerFactory Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.logging.iloggerfactory?view=dotnet-plat-ext-3.1 <br />
+
 **_Label API by Microsoft_** <br />
 Label Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.label?view=netframework-4.8 <br />
 
