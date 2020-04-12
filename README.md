@@ -65,9 +65,15 @@ Dictionary<TKey,TValue>.ContainsKey(TKey) Method : https://docs.microsoft.com/en
 
 **_EndpointRouteBuilderExtensions API by Microsoft_** <br />
 EndpointRouteBuilderExtensions Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.endpointroutebuilderextensions?view=aspnetcore-3.1 <br />
+EndpointRouteBuilderExtensions.MapDelete(IEndpointRouteBuilder, String, RequestDelegate) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.endpointroutebuilderextensions.mapdelete?view=aspnetcore-3.1 <br />
+EndpointRouteBuilderExtensions.MapMethods(IEndpointRouteBuilder, String, IEnumerable<String>, RequestDelegate) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.endpointroutebuilderextensions.mapmethods?view=aspnetcore-3.1 <br />
+EndpointRouteBuilderExtensions.MapPost(IEndpointRouteBuilder, String, RequestDelegate) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.endpointroutebuilderextensions.mappost?view=aspnetcore-3.1 <br />
+EndpointRouteBuilderExtensions.MapPut(IEndpointRouteBuilder, String, RequestDelegate) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.endpointroutebuilderextensions.mapput?view=aspnetcore-3.1 <br />
 
 **_EndpointRoutingApplicationBuilderExtensions API by Microsoft_** <br />
 EndpointRoutingApplicationBuilderExtensions.UseEndpoints(IApplicationBuilder, Action<IEndpointRouteBuilder>) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.endpointroutingapplicationbuilderextensions.useendpoints?view=aspnetcore-3.1 <br />
+  
+  
 
 **_Exception API by Microsoft_** <br />
 Exception Class : https://docs.microsoft.com/en-us/dotnet/api/system.exception?view=netframework-4.8 <br />
