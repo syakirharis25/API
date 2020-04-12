@@ -132,6 +132,9 @@ VerticalAlignment Enum : https://docs.microsoft.com/en-us/dotnet/api/system.wind
 **_ViewDataDictionary API by Microsoft_** <br />
 ViewDataDictionary Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.viewdatadictionary?view=aspnet-mvc-5.2 <br />
 
+**_WebHostBuilder API by Microsoft_** <br />
+WebHostBuilder Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.webhostbuilder?view=aspnetcore-3.1 <br />
+
 **_Window API by Microsoft_** <br />
 Window Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows.window?view=netframework-4.8 <br />
 
