@@ -139,6 +139,9 @@ Math.Round Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.roun
 **_Microsoft.AspNetCore.Hosting API by Microsoft_** <br />
 Microsoft.AspNetCore.Hosting Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting?view=aspnetcore-3.1 <br />
 
+**_Microsoft.AspNetCore.Http API by Microsoft_** <br />
+Microsoft.AspNetCore.Http Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http?view=aspnetcore-3.1 <br />
+
 **_Microsoft.Extensions.DependencyInjection API by Microsoft_** <br />
 Microsoft.Extensions.DependencyInjection Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.dependencyinjection?view=dotnet-plat-ext-3.1 <br />
 
@@ -147,6 +150,9 @@ Microsoft.Extensions.Hosting Namespace : https://docs.microsoft.com/en-us/dotnet
 
 **_RowDefinition API by Microsoft_** <br /> 
 RowDefinition Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.rowdefinition?view=netframework-4.8 <br />
+
+**_Stream.WriteAsync API by Microsoft_** <br /> 
+Stream.WriteAsync Method : https://docs.microsoft.com/en-us/dotnet/api/system.io.stream.writeasync?view=netframework-4.8 <br />
 
 **_String API by Microsoft_** <br />
 String.Length Property : https://docs.microsoft.com/en-us/dotnet/api/system.string.length?view=netframework-4.8 <br />
