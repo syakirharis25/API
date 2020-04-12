@@ -97,6 +97,9 @@ IHostedService Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft
 **_ILoggerFactory API by Microsoft_** <br />
 ILoggerFactory Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.logging.iloggerfactory?view=dotnet-plat-ext-3.1 <br />
 
+**_IServiceCollection API by Microsoft_** <br />
+IServiceCollection Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.dependencyinjection.iservicecollection?view=dotnet-plat-ext-3.1 <br />
+
 **_IWebHostBuilder API by Microsoft_** <br />
 IWebHostBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.iwebhostbuilder?view=aspnetcore-3.1 <br />
 
