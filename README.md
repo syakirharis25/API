@@ -106,6 +106,9 @@ IServiceCollection Interface : https://docs.microsoft.com/en-us/dotnet/api/micro
 **_IWebHostBuilder API by Microsoft_** <br />
 IWebHostBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.iwebhostbuilder?view=aspnetcore-3.1 <br />
 
+**_IWebHostEnvironment API by Microsoft_** <br />
+IWebHostEnvironment Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.iwebhostenvironment?view=aspnetcore-3.1 <br />
+
 **_Microsoft.AspNetCore.Builder API by Microsoft_** <br />
 Microsoft.AspNetCore.Builder Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder?view=aspnetcore-3.1 <br />
 
