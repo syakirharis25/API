@@ -63,6 +63,9 @@ DeveloperExceptionPageExtensions.UseDeveloperExceptionPage Method : https://docs
 **_Dictionary API by Microsoft_** <br />
 Dictionary<TKey,TValue>.ContainsKey(TKey) Method : https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2.containskey?view=netframework-4.8 <br />
 
+**_EndpointRouteBuilderExtensions API by Microsoft_** <br />
+EndpointRouteBuilderExtensions Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.endpointroutebuilderextensions?view=aspnetcore-3.1 <br />
+
 **_EndpointRoutingApplicationBuilderExtensions API by Microsoft_** <br />
 EndpointRoutingApplicationBuilderExtensions.UseEndpoints(IApplicationBuilder, Action<IEndpointRouteBuilder>) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.endpointroutingapplicationbuilderextensions.useendpoints?view=aspnetcore-3.1 <br />
 
