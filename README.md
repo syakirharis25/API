@@ -84,6 +84,9 @@ IConfiguration Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft
 **_IHostBuilder API by Microsoft_** <br />
 IHostBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.ihostbuilder?view=dotnet-plat-ext-3.1 <br />
 
+**_IHostEnvironment  API by Microsoft_** <br />
+IHostEnvironment Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.ihostenvironment?view=dotnet-plat-ext-3.1 <br />
+
 **_IHostedService API by Microsoft_** <br />
 IHostedService Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.ihostedservice?view=dotnet-plat-ext-3.1 <br />
 
