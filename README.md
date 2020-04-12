@@ -82,6 +82,9 @@ HorizontalAlignment Enum : https://docs.microsoft.com/en-us/dotnet/api/system.wi
 **_HttpResponseWritingExtensions API by Microsoft_** <br />
 HttpResponseWritingExtensions.WriteAsync Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.httpresponsewritingextensions.writeasync?view=aspnetcore-3.1
 
+**_IApplicationBuilder API by Microsoft_** <br />
+IApplicationBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.iapplicationbuilder?view=aspnetcore-3.1 <br />
+
 **_IConfiguration API by Microsoft_** <br />
 IConfiguration Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.configuration.iconfiguration?view=dotnet-plat-ext-3.1 <br />
 
@@ -114,6 +117,12 @@ Math.Sqrt(Double) Method : https://docs.microsoft.com/en-us/dotnet/api/system.ma
 Math.Max Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.max?view=netframework-4.8 <br />
 Math.Min Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.min?view=netframework-4.8 <br />
 Math.Round Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.round?view=netframework-4.8 <br />
+
+**_Microsoft.AspNetCore.Hosting API by Microsoft_** <br />
+Microsoft.AspNetCore.Hosting Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting?view=aspnetcore-3.1 <br />
+
+**_Microsoft.Extensions.DependencyInjection API by Microsoft_** <br />
+Microsoft.Extensions.DependencyInjection Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.dependencyinjection?view=dotnet-plat-ext-3.1 <br />
 
 **_Microsoft.Extensions.Hosting API by Microsoft_** <br />
 Microsoft.Extensions.Hosting Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting?view=dotnet-plat-ext-3.1 <br />
