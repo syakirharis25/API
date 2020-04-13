@@ -51,6 +51,9 @@ Console.ReadKey Method : https://docs.microsoft.com/en-us/dotnet/api/system.cons
 **_Content API by Microsoft_** <br />
 Content Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.webcontrols.content?view=netframework-4.8 <br />
 
+**_ControllerEndpointRouteBuilderExtensions API by Microsoft_** <br />
+ControllerEndpointRouteBuilderExtensions.MapDefaultControllerRoute(IEndpointRouteBuilder) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.controllerendpointroutebuilderextensions.mapdefaultcontrollerroute?view=aspnetcore-3.1 <br />
+
 **_Convert API by Microsoft_** <br />
 Convert.ToInt32 Method : https://docs.microsoft.com/en-us/dotnet/api/system.convert.toint32?view=netframework-4.8 <br />
 Convert.ToDouble Method : https://docs.microsoft.com/en-us/dotnet/api/system.convert.todouble?view=netframework-4.8 <br />
@@ -85,6 +88,9 @@ GenericHostBuilderExtensions.ConfigureWebHostDefaults(IHostBuilder, Action<IWebH
 **_Grid API by Microsoft_** <br />
 Grid Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.grid?view=netframework-4.8 <br />
 Grid.RowDefinitions Property : https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.grid.rowdefinitions?view=netframework-4.8 <br />
+
+**_HostingEnvironmentExtensions API by Microsoft_** <br />
+HostingEnvironmentExtensions.IsProduction(IHostingEnvironment) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.hostingenvironmentextensions.isproduction?view=aspnetcore-3.1 <br />
 
 **_HorizontalAlignment API by Microsoft_** <br />
 HorizontalAlignment Enum : https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.horizontalalignment?view=netframework-4.8 <br />
