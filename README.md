@@ -148,6 +148,7 @@ Microsoft.Extensions.Hosting Namespace : https://docs.microsoft.com/en-us/dotnet
 
 **_MvcServiceCollectionExtensions API by Microsoft_** <br />
 MvcServiceCollectionExtensions.AddControllers Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.dependencyinjection.mvcservicecollectionextensions.addcontrollers?view=aspnetcore-3.1 <br />
+MvcServiceCollectionExtensions.AddControllersWithViews Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.dependencyinjection.mvcservicecollectionextensions.addcontrollerswithviews?view=aspnetcore-3.1 <br />
 
 **_RowDefinition API by Microsoft_** <br /> 
 RowDefinition Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.rowdefinition?view=netframework-4.8 <br />
