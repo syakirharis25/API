@@ -53,6 +53,8 @@ Content Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.webcon
 
 **_ControllerEndpointRouteBuilderExtensions API by Microsoft_** <br />
 ControllerEndpointRouteBuilderExtensions.MapDefaultControllerRoute(IEndpointRouteBuilder) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.controllerendpointroutebuilderextensions.mapdefaultcontrollerroute?view=aspnetcore-3.1 <br />
+ControllerEndpointRouteBuilderExtensions Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.controllerendpointroutebuilderextensions?view=aspnetcore-3.1 <br />
+ControllerEndpointRouteBuilderExtensions.MapDynamicControllerRoute<TTransformer>(IEndpointRouteBuilder, String) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.controllerendpointroutebuilderextensions.mapdynamiccontrollerroute?view=aspnetcore-3.1 <br />
 
 **_Convert API by Microsoft_** <br />
 Convert.ToInt32 Method : https://docs.microsoft.com/en-us/dotnet/api/system.convert.toint32?view=netframework-4.8 <br />
@@ -103,6 +105,9 @@ IApplicationBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/micr
 
 **_IConfiguration API by Microsoft_** <br />
 IConfiguration Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.configuration.iconfiguration?view=dotnet-plat-ext-3.1 <br />
+
+**_IEndpointConventionBuilder API by Microsoft_** <br />
+IEndpointConventionBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.iendpointconventionbuilder?view=aspnetcore-3.1 <br />
 
 **_IHostBuilder API by Microsoft_** <br />
 IHostBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.ihostbuilder?view=dotnet-plat-ext-3.1 <br />
