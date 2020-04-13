@@ -72,8 +72,6 @@ EndpointRouteBuilderExtensions.MapPut(IEndpointRouteBuilder, String, RequestDele
 
 **_EndpointRoutingApplicationBuilderExtensions API by Microsoft_** <br />
 EndpointRoutingApplicationBuilderExtensions.UseEndpoints(IApplicationBuilder, Action<IEndpointRouteBuilder>) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.endpointroutingapplicationbuilderextensions.useendpoints?view=aspnetcore-3.1 <br />
-  
-  
 
 **_Exception API by Microsoft_** <br />
 Exception Class : https://docs.microsoft.com/en-us/dotnet/api/system.exception?view=netframework-4.8 <br />
@@ -147,6 +145,9 @@ Microsoft.Extensions.DependencyInjection Namespace : https://docs.microsoft.com/
 
 **_Microsoft.Extensions.Hosting API by Microsoft_** <br />
 Microsoft.Extensions.Hosting Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting?view=dotnet-plat-ext-3.1 <br />
+
+**_MvcServiceCollectionExtensions API by Microsoft_** <br />
+MvcServiceCollectionExtensions.AddControllers Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.dependencyinjection.mvcservicecollectionextensions.addcontrollers?view=aspnetcore-3.1 <br />
 
 **_RowDefinition API by Microsoft_** <br /> 
 RowDefinition Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.rowdefinition?view=netframework-4.8 <br />
