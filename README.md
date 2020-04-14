@@ -52,6 +52,9 @@ Application.MainWindow Property : https://docs.microsoft.com/en-us/dotnet/api/sy
 Char.IsUpper Method : https://docs.microsoft.com/en-us/dotnet/api/system.char.isupper?view=netframework-4.8 <br />
 Char.IsDigit Method : https://docs.microsoft.com/en-us/dotnet/api/system.char.isdigit?view=netframework-4.8 <br />
 
+**_ClaimsPrincipal API by Microsoft_** <br />
+ClaimsPrincipal Class : https://docs.microsoft.com/en-us/dotnet/api/system.security.claims.claimsprincipal?view=netframework-4.8 <br />
+
 **_Console API by Microsoft_** <br />
 Console Class : https://docs.microsoft.com/en-us/dotnet/api/system.console?view=netframework-4.8 <br />
 Console.WriteLine Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.writeline?view=netframework-4.8 <br />
@@ -68,6 +71,10 @@ Controller.OnActionExecuted(ActionExecutedContext) Method : https://docs.microso
 
 **_ControllerBase API by Microsoft_** <br />
 ControllerBase Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase?view=aspnetcore-3.1 <br />
+ControllerBase.MetadataProvider Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.metadataprovider?view=aspnetcore-3.1 <br />
+
+**_ControllerContext API by Microsoft_** <br />
+ControllerContext Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controllercontext?view=aspnet-mvc-5.2 <br />
 
 **_ControllerEndpointRouteBuilderExtensions API by Microsoft_** <br />
 ControllerEndpointRouteBuilderExtensions.MapDefaultControllerRoute(IEndpointRouteBuilder) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.controllerendpointroutebuilderextensions.mapdefaultcontrollerroute?view=aspnetcore-3.1 <br />
@@ -118,6 +125,15 @@ HostingEnvironmentExtensions.IsProduction(IHostingEnvironment) Method : https://
 **_HorizontalAlignment API by Microsoft_** <br />
 HorizontalAlignment Enum : https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.horizontalalignment?view=netframework-4.8 <br />
 
+**_HttpContext API by Microsoft_** <br />
+HttpContext Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.httpcontext?view=netframework-4.8 <br />
+
+**_HttpRequest API by Microsoft_** <br />
+HttpRequest Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.httprequest?view=netframework-4.8 <br />
+
+**_HttpResponse API by Microsoft_** <br />
+HttpResponse Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.httpresponse?view=netframework-4.8 <br />
+
 **_HttpResponseWritingExtensions API by Microsoft_** <br />
 HttpResponseWritingExtensions.WriteAsync Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.httpresponsewritingextensions.writeasync?view=aspnetcore-3.1
 
@@ -151,11 +167,23 @@ IHostedService Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft
 **_ILoggerFactory API by Microsoft_** <br />
 ILoggerFactory Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.logging.iloggerfactory?view=dotnet-plat-ext-3.1 <br />
 
+**_IModelBinderFactory API by Microsoft_** <br />
+IModelBinderFactory Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.modelbinding.imodelbinderfactory?view=aspnetcore-3.1 <br />
+
+**_IModelMetadataProvider API by Microsoft_** <br />
+IModelMetadataProvider Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.modelbinding.imodelmetadataprovider?view=aspnetcore-3.1 <br />
+
+**_IObjectModelValidator API by Microsoft_** <br />
+IObjectModelValidator Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.modelbinding.validation.iobjectmodelvalidator?view=aspnetcore-3.1 <br />
+
 **_IServiceCollection API by Microsoft_** <br />
 IServiceCollection Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.dependencyinjection.iservicecollection?view=dotnet-plat-ext-3.1 <br />
 
 **_ITempDataDictionary API by Microsoft_** <br />
 ITempDataDictionary Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.viewfeatures.itempdatadictionary?view=aspnetcore-3.1 <br />
+
+**_IUrlHelper API by Microsoft_** <br />
+IUrlHelper Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.iurlhelper?view=aspnetcore-3.1 <br />
 
 **_IWebHostBuilder API by Microsoft_** <br />
 IWebHostBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.iwebhostbuilder?view=aspnetcore-3.1 <br />
@@ -193,12 +221,30 @@ Microsoft.Extensions.DependencyInjection Namespace : https://docs.microsoft.com/
 **_Microsoft.Extensions.Hosting API by Microsoft_** <br />
 Microsoft.Extensions.Hosting Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting?view=dotnet-plat-ext-3.1 <br />
 
+**_ModelBinderFactory API by Microsoft_** <br />
+ModelBinderFactory Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.modelbinding.modelbinderfactory?view=aspnetcore-3.1 <br />
+
+**_ModelState API by Microsoft_** <br />
+ModelState Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.modelstate?view=aspnet-mvc-5.2 <br />
+
+**_ModelStateDictionary API by Microsoft_** <br />
+ModelStateDictionary Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.modelstatedictionary?view=aspnet-mvc-5.2 <br />
+
 **_MvcServiceCollectionExtensions API by Microsoft_** <br />
 MvcServiceCollectionExtensions.AddControllers Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.dependencyinjection.mvcservicecollectionextensions.addcontrollers?view=aspnetcore-3.1 <br />
 MvcServiceCollectionExtensions.AddControllersWithViews Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.dependencyinjection.mvcservicecollectionextensions.addcontrollerswithviews?view=aspnetcore-3.1 <br />
 
+**_ObjectModelValidator API by Microsoft_** <br />
+ObjectModelValidator Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.modelbinding.objectmodelvalidator?view=aspnetcore-3.1 <br />
+
 **_PartialViewResult API by Microsoft_** <br />
 PartialViewResult Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.partialviewresult?view=aspnet-mvc-5.2 <br />
+
+**_ProblemDetailsFactory API by Microsoft_** <br />
+ProblemDetailsFactory Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.infrastructure.problemdetailsfactory?view=aspnetcore-3.1 <br />
+
+**_RouteData API by Microsoft_** <br />
+RouteData Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.routing.routedata?view=netframework-4.8 <br />
 
 **_RowDefinition API by Microsoft_** <br /> 
 RowDefinition Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.rowdefinition?view=netframework-4.8 <br />
