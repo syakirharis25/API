@@ -35,6 +35,16 @@ Using Fetch by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Fetch_
 
 <a name="microsoft"></a>
 ## 3. API by Microsoft
+
+**_ActionExecutedContext API by Microsoft_** <br />
+ActionExecutedContext Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.actionexecutedcontext?view=aspnet-mvc-5.2 <br />
+
+**_ActionExecutingContext API by Microsoft_** <br />
+ActionExecutingContext Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.actionexecutingcontext?view=aspnet-mvc-5.2 <br />
+
+**_ActionExecutionDelegate API by Microsoft_** <br />
+ActionExecutionDelegate Delegate : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.filters.actionexecutiondelegate?view=aspnetcore-3.1 <br />
+
 **_Application API by Microsoft_** <br />
 Application.MainWindow Property : https://docs.microsoft.com/en-us/dotnet/api/system.windows.application.mainwindow?view=netframework-4.8 <br />
 
@@ -50,6 +60,11 @@ Console.ReadKey Method : https://docs.microsoft.com/en-us/dotnet/api/system.cons
 
 **_Content API by Microsoft_** <br />
 Content Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.webcontrols.content?view=netframework-4.8 <br />
+
+**_Controller API by Microsoft_** <br />
+Controller.OnActionExecutionAsync(ActionExecutingContext, ActionExecutionDelegate) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controller.onactionexecutionasync?view=aspnetcore-3.1 <br />
+Controller.OnActionExecuting(ActionExecutingContext) Method : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.onactionexecuting?view=aspnet-mvc-5.2 <br />
+Controller.OnActionExecuted(ActionExecutedContext) Method : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.onactionexecuted?view=aspnet-mvc-5.2 <br />
 
 **_ControllerEndpointRouteBuilderExtensions API by Microsoft_** <br />
 ControllerEndpointRouteBuilderExtensions.MapDefaultControllerRoute(IEndpointRouteBuilder) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.controllerendpointroutebuilderextensions.mapdefaultcontrollerroute?view=aspnetcore-3.1 <br />
@@ -163,6 +178,9 @@ Microsoft.Extensions.Hosting Namespace : https://docs.microsoft.com/en-us/dotnet
 **_MvcServiceCollectionExtensions API by Microsoft_** <br />
 MvcServiceCollectionExtensions.AddControllers Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.dependencyinjection.mvcservicecollectionextensions.addcontrollers?view=aspnetcore-3.1 <br />
 MvcServiceCollectionExtensions.AddControllersWithViews Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.dependencyinjection.mvcservicecollectionextensions.addcontrollerswithviews?view=aspnetcore-3.1 <br />
+
+**_PartialViewResult API by Microsoft_** <br />
+PartialViewResult Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.partialviewresult?view=aspnet-mvc-5.2 <br />
 
 **_RowDefinition API by Microsoft_** <br /> 
 RowDefinition Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.rowdefinition?view=netframework-4.8 <br />
