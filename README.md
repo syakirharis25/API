@@ -66,6 +66,9 @@ Controller.OnActionExecutionAsync(ActionExecutingContext, ActionExecutionDelegat
 Controller.OnActionExecuting(ActionExecutingContext) Method : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.onactionexecuting?view=aspnet-mvc-5.2 <br />
 Controller.OnActionExecuted(ActionExecutedContext) Method : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.onactionexecuted?view=aspnet-mvc-5.2 <br />
 
+**_ControllerBase API by Microsoft_** <br />
+ControllerBase Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase?view=aspnetcore-3.1 <br />
+
 **_ControllerEndpointRouteBuilderExtensions API by Microsoft_** <br />
 ControllerEndpointRouteBuilderExtensions.MapDefaultControllerRoute(IEndpointRouteBuilder) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.controllerendpointroutebuilderextensions.mapdefaultcontrollerroute?view=aspnetcore-3.1 <br />
 ControllerEndpointRouteBuilderExtensions Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.controllerendpointroutebuilderextensions?view=aspnetcore-3.1 <br />
@@ -98,6 +101,9 @@ Exception Class : https://docs.microsoft.com/en-us/dotnet/api/system.exception?v
 DivideByZeroException Class : https://docs.microsoft.com/en-us/dotnet/api/system.dividebyzeroexception?view=netframework-4.8 <br />
 FormatException Class : https://docs.microsoft.com/en-us/dotnet/api/system.formatexception?view=netframework-4.8 <br />
 
+**_Filters API by Microsoft_** <br />
+Filters in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/filters?view=aspnetcore-3.1 <br />
+
 **_GenericHostBuilderExtensions API by Microsoft_** <br />
 GenericHostBuilderExtensions Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.generichostbuilderextensions?view=aspnetcore-3.1 <br />
 GenericHostBuilderExtensions.ConfigureWebHostDefaults(IHostBuilder, Action<IWebHostBuilder>) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.generichostbuilderextensions.configurewebhostdefaults?view=aspnetcore-3.1 <br />
@@ -115,14 +121,23 @@ HorizontalAlignment Enum : https://docs.microsoft.com/en-us/dotnet/api/system.wi
 **_HttpResponseWritingExtensions API by Microsoft_** <br />
 HttpResponseWritingExtensions.WriteAsync Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.httpresponsewritingextensions.writeasync?view=aspnetcore-3.1
 
+**_IActionFilter API by Microsoft_** <br />
+IActionFilter Interface : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.iactionfilter?view=aspnet-mvc-5.2 <br />
+
 **_IApplicationBuilder API by Microsoft_** <br />
 IApplicationBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.iapplicationbuilder?view=aspnetcore-3.1 <br />
 
 **_IConfiguration API by Microsoft_** <br />
 IConfiguration Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.configuration.iconfiguration?view=dotnet-plat-ext-3.1 <br />
 
+**_IDisposable API by Microsoft_** <br />
+IDisposable Interface : https://docs.microsoft.com/en-us/dotnet/api/system.idisposable?view=netframework-4.8 <br />
+
 **_IEndpointConventionBuilder API by Microsoft_** <br />
 IEndpointConventionBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.iendpointconventionbuilder?view=aspnetcore-3.1 <br />
+
+**_IFilterMetadata API by Microsoft_** <br />
+IFilterMetadata Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.filters.ifiltermetadata?view=aspnetcore-3.1 <br />
 
 **_IHostBuilder API by Microsoft_** <br />
 IHostBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.ihostbuilder?view=dotnet-plat-ext-3.1 <br />
@@ -138,6 +153,9 @@ ILoggerFactory Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft
 
 **_IServiceCollection API by Microsoft_** <br />
 IServiceCollection Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.dependencyinjection.iservicecollection?view=dotnet-plat-ext-3.1 <br />
+
+**_ITempDataDictionary API by Microsoft_** <br />
+ITempDataDictionary Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.viewfeatures.itempdatadictionary?view=aspnetcore-3.1 <br />
 
 **_IWebHostBuilder API by Microsoft_** <br />
 IWebHostBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.iwebhostbuilder?view=aspnetcore-3.1 <br />
