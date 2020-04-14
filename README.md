@@ -200,6 +200,9 @@ System.Net Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.net?vi
 **_Task API by Microsoft_** <br />
 Task Class : https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=netframework-4.8 <br />
 
+**_Type API by Microsoft_** <br />
+Type Class : https://docs.microsoft.com/en-us/dotnet/api/system.type?view=netframework-4.8 <br />
+
 **_VerticalAlignment API by Microsoft_** <br />
 VerticalAlignment Enum : https://docs.microsoft.com/en-us/dotnet/api/system.windows.verticalalignment?view=netframework-4.8 <br />
 
