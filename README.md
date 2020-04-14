@@ -57,6 +57,9 @@ AuthenticationProperties Class : https://docs.microsoft.com/en-us/dotnet/api/mic
 **_AuthenticationSchemes API by Microsoft_** <br />
 AuthenticationSchemes Enum : https://docs.microsoft.com/en-us/dotnet/api/system.net.authenticationschemes?view=netframework-4.8 <br />
 
+**_Byte API by Microsoft_** <br />
+Byte Struct : https://docs.microsoft.com/en-us/dotnet/api/system.byte?view=netframework-4.8 <br />
+
 **_Char API by Microsoft_** <br />
 Char.IsUpper Method : https://docs.microsoft.com/en-us/dotnet/api/system.char.isupper?view=netframework-4.8 <br />
 Char.IsDigit Method : https://docs.microsoft.com/en-us/dotnet/api/system.char.isdigit?view=netframework-4.8 <br />
@@ -100,6 +103,7 @@ ControllerBase.Accepted Method : https://docs.microsoft.com/en-us/dotnet/api/mic
 ControllerBase.PhysicalFile Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.physicalfile?view=aspnetcore-3.1 <br />
 ControllerBase.NotFound Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.notfound?view=aspnetcore-3.1 <br />
 ControllerBase.NoContent Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.nocontent?view=aspnetcore-3.1 <br />
+ControllerBase.Forbid Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.forbid?view=aspnetcore-3.1 <br />
 
 **_ControllerContext API by Microsoft_** <br />
 ControllerContext Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controllercontext?view=aspnet-mvc-5.2 <br />
@@ -148,8 +152,24 @@ Exception Class : https://docs.microsoft.com/en-us/dotnet/api/system.exception?v
 DivideByZeroException Class : https://docs.microsoft.com/en-us/dotnet/api/system.dividebyzeroexception?view=netframework-4.8 <br />
 FormatException Class : https://docs.microsoft.com/en-us/dotnet/api/system.formatexception?view=netframework-4.8 <br />
 
+**_FileContentResult API by Microsoft_** <br />
+FileContentResult Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.filecontentresult?view=aspnet-mvc-5.2 <br />
+FileContentResult.FileContents Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.filecontentresult.filecontents?view=aspnetcore-3.1 <br />
+
+**_FileResult API by Microsoft_** <br />
+FileResult.EnableRangeProcessing Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.fileresult.enablerangeprocessing?view=aspnetcore-3.1 <br />
+
+**_FileStream API by Microsoft_** <br />
+FileStream Class : https://docs.microsoft.com/en-us/dotnet/api/system.io.filestream?view=netframework-4.8 <br />
+
+**_FileStreamResult API by Microsoft_** <br />
+FileStreamResult Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.filestreamresult?view=aspnet-mvc-5.2 <br />
+
 **_Filters API by Microsoft_** <br />
 Filters in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/filters?view=aspnetcore-3.1 <br />
+
+**_ForbidResult API by Microsoft_** <br />
+ForbidResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.forbidresult?view=aspnetcore-3.1 <br />
 
 **_GenericHostBuilderExtensions API by Microsoft_** <br />
 GenericHostBuilderExtensions Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.generichostbuilderextensions?view=aspnetcore-3.1 <br />
@@ -315,6 +335,9 @@ RowDefinition Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows
 
 **_StatusCodes API by Microsoft_** <br /> 
 StatusCodes Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.statuscodes?view=aspnetcore-3.1 <br />
+
+**_Stream API by Microsoft_** <br /> 
+Stream Class : https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=netframework-4.8 <br />
 
 **_Stream.WriteAsync API by Microsoft_** <br /> 
 Stream.WriteAsync Method : https://docs.microsoft.com/en-us/dotnet/api/system.io.stream.writeasync?view=netframework-4.8 <br />
