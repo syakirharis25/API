@@ -158,6 +158,7 @@ FileContentResult.FileContents Property : https://docs.microsoft.com/en-us/dotne
 
 **_FileResult API by Microsoft_** <br />
 FileResult.EnableRangeProcessing Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.fileresult.enablerangeprocessing?view=aspnetcore-3.1 <br />
+FileResult.FileDownloadName Property : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.fileresult.filedownloadname?view=aspnet-mvc-5.2 <br />
 
 **_FileStream API by Microsoft_** <br />
 FileStream Class : https://docs.microsoft.com/en-us/dotnet/api/system.io.filestream?view=netframework-4.8 <br />
