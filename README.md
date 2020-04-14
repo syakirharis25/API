@@ -392,6 +392,9 @@ ViewDataDictionary Class : https://docs.microsoft.com/en-us/dotnet/api/system.we
 **_ViewResult API by Microsoft_** <br />
 ViewResult Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.viewresult?view=aspnet-mvc-5.2 <br />
 
+**_VirtualFileResult API by Microsoft_** <br />
+VirtualFileResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.virtualfileresult?view=aspnetcore-3.1 <br />
+
 **_WebHostBuilder API by Microsoft_** <br />
 WebHostBuilder Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.webhostbuilder?view=aspnetcore-3.1 <br />
 
