@@ -55,6 +55,9 @@ Char.IsDigit Method : https://docs.microsoft.com/en-us/dotnet/api/system.char.is
 **_ClaimsPrincipal API by Microsoft_** <br />
 ClaimsPrincipal Class : https://docs.microsoft.com/en-us/dotnet/api/system.security.claims.claimsprincipal?view=netframework-4.8 <br />
 
+**_ConflictResult API by Microsoft_** <br />
+ConflictResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.conflictresult?view=aspnetcore-3.1 <br />
+
 **_Console API by Microsoft_** <br />
 Console Class : https://docs.microsoft.com/en-us/dotnet/api/system.console?view=netframework-4.8 <br />
 Console.WriteLine Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.writeline?view=netframework-4.8 <br />
@@ -64,6 +67,10 @@ Console.ReadKey Method : https://docs.microsoft.com/en-us/dotnet/api/system.cons
 **_Content API by Microsoft_** <br />
 Content Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.webcontrols.content?view=netframework-4.8 <br />
 
+**_ContentResult API by Microsoft_** <br />
+ContentResult Class aspnet-mvc-5.2 : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.contentresult?view=aspnet-mvc-5.2 <br />
+ContentResult Class aspnetcore-3.1 : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.contentresult?view=aspnetcore-3.1 <br />
+
 **_Controller API by Microsoft_** <br />
 Controller.OnActionExecutionAsync(ActionExecutingContext, ActionExecutionDelegate) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controller.onactionexecutionasync?view=aspnetcore-3.1 <br />
 Controller.OnActionExecuting(ActionExecutingContext) Method : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controller.onactionexecuting?view=aspnet-mvc-5.2 <br />
@@ -72,6 +79,7 @@ Controller.OnActionExecuted(ActionExecutedContext) Method : https://docs.microso
 **_ControllerBase API by Microsoft_** <br />
 ControllerBase Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase?view=aspnetcore-3.1 <br />
 ControllerBase.MetadataProvider Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.metadataprovider?view=aspnetcore-3.1 <br />
+ControllerBase.CreatedAtAction Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.createdataction?view=aspnetcore-3.1 <br />
 
 **_ControllerContext API by Microsoft_** <br />
 ControllerContext Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controllercontext?view=aspnet-mvc-5.2 <br />
@@ -87,11 +95,23 @@ Convert.ToDouble Method : https://docs.microsoft.com/en-us/dotnet/api/system.con
 Console.Write Method : https://docs.microsoft.com/en-us/dotnet/api/system.console.write?view=netframework-4.8 <br />
 Convert Class : https://docs.microsoft.com/en-us/dotnet/api/system.convert?view=netframework-4.8 <br />
 
+**_CreatedAtActionResult API by Microsoft_** <br />
+CreatedAtActionResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.createdatactionresult?view=aspnetcore-3.1 <br />
+
+**_CreatedAtRouteResult API by Microsoft_** <br />
+CreatedAtRouteResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.createdatrouteresult?view=aspnetcore-3.1 <br />
+
+**_CreatedResult API by Microsoft_** <br />
+CreatedResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.createdresult?view=aspnetcore-3.1 <br />
+
 **_DeveloperExceptionPageExtensions API by Microsoft_** <br />
 DeveloperExceptionPageExtensions.UseDeveloperExceptionPage Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.developerexceptionpageextensions.usedeveloperexceptionpage?view=aspnetcore-3.1 <br />
 
 **_Dictionary API by Microsoft_** <br />
 Dictionary<TKey,TValue>.ContainsKey(TKey) Method : https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2.containskey?view=netframework-4.8 <br />
+
+**_Encoding API by Microsoft_** <br />
+Encoding Class : https://docs.microsoft.com/en-us/dotnet/api/system.text.encoding?view=netframework-4.8 <br />
 
 **_EndpointRouteBuilderExtensions API by Microsoft_** <br />
 EndpointRouteBuilderExtensions Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.endpointroutebuilderextensions?view=aspnetcore-3.1 <br />
@@ -133,6 +153,7 @@ HttpRequest Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.httpr
 
 **_HttpResponse API by Microsoft_** <br />
 HttpResponse Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.httpresponse?view=netframework-4.8 <br />
+HttpResponse.ContentEncoding Property : https://docs.microsoft.com/en-us/dotnet/api/system.web.httpresponse.contentencoding?view=netframework-4.8 <br />
 
 **_HttpResponseWritingExtensions API by Microsoft_** <br />
 HttpResponseWritingExtensions.WriteAsync Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.httpresponsewritingextensions.writeasync?view=aspnetcore-3.1
@@ -205,6 +226,9 @@ Math.Sqrt(Double) Method : https://docs.microsoft.com/en-us/dotnet/api/system.ma
 Math.Max Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.max?view=netframework-4.8 <br />
 Math.Min Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.min?view=netframework-4.8 <br />
 Math.Round Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.round?view=netframework-4.8 <br />
+
+**_MediaTypeHeaderValue API by Microsoft_** <br />
+MediaTypeHeaderValue Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.net.http.headers.mediatypeheadervalue?view=aspnetcore-3.1 <br />
 
 **_Microsoft.AspNetCore.Hosting API by Microsoft_** <br />
 Microsoft.AspNetCore.Hosting Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting?view=aspnetcore-3.1 <br />
