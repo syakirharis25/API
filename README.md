@@ -206,8 +206,14 @@ Type Class : https://docs.microsoft.com/en-us/dotnet/api/system.type?view=netfra
 **_VerticalAlignment API by Microsoft_** <br />
 VerticalAlignment Enum : https://docs.microsoft.com/en-us/dotnet/api/system.windows.verticalalignment?view=netframework-4.8 <br />
 
+**_ViewComponentResult API by Microsoft_** <br />
+ViewComponentResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.viewcomponentresult?view=aspnetcore-3.1 <br />
+
 **_ViewDataDictionary API by Microsoft_** <br />
 ViewDataDictionary Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.viewdatadictionary?view=aspnet-mvc-5.2 <br />
+
+**_ViewResult API by Microsoft_** <br />
+ViewResult Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.viewresult?view=aspnet-mvc-5.2 <br />
 
 **_WebHostBuilder API by Microsoft_** <br />
 WebHostBuilder Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.webhostbuilder?view=aspnetcore-3.1 <br />
