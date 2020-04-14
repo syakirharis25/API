@@ -55,6 +55,9 @@ Char.IsDigit Method : https://docs.microsoft.com/en-us/dotnet/api/system.char.is
 **_ClaimsPrincipal API by Microsoft_** <br />
 ClaimsPrincipal Class : https://docs.microsoft.com/en-us/dotnet/api/system.security.claims.claimsprincipal?view=netframework-4.8 <br />
 
+**_ConflictObjectResult API by Microsoft_** <br />
+ConflictObjectResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.conflictobjectresult?view=aspnetcore-3.1 <br />
+
 **_ConflictResult API by Microsoft_** <br />
 ConflictResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.conflictresult?view=aspnetcore-3.1 <br />
 
@@ -80,6 +83,7 @@ Controller.OnActionExecuted(ActionExecutedContext) Method : https://docs.microso
 ControllerBase Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase?view=aspnetcore-3.1 <br />
 ControllerBase.MetadataProvider Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.metadataprovider?view=aspnetcore-3.1 <br />
 ControllerBase.CreatedAtAction Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.createdataction?view=aspnetcore-3.1 <br />
+ControllerBase.Conflict Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.conflict?view=aspnetcore-3.1 <br />
 
 **_ControllerContext API by Microsoft_** <br />
 ControllerContext Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controllercontext?view=aspnet-mvc-5.2 <br />
