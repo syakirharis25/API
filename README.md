@@ -54,6 +54,9 @@ Application.MainWindow Property : https://docs.microsoft.com/en-us/dotnet/api/sy
 **_AuthenticationProperties API by Microsoft_** <br />
 AuthenticationProperties Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.authentication.authenticationproperties?view=aspnetcore-2.2 <br />
 
+**_AuthenticationSchemes API by Microsoft_** <br />
+AuthenticationSchemes Enum : https://docs.microsoft.com/en-us/dotnet/api/system.net.authenticationschemes?view=netframework-4.8 <br />
+
 **_Char API by Microsoft_** <br />
 Char.IsUpper Method : https://docs.microsoft.com/en-us/dotnet/api/system.char.isupper?view=netframework-4.8 <br />
 Char.IsDigit Method : https://docs.microsoft.com/en-us/dotnet/api/system.char.isdigit?view=netframework-4.8 <br />
@@ -93,7 +96,10 @@ ControllerBase.Conflict Method : https://docs.microsoft.com/en-us/dotnet/api/mic
 ControllerBase.Challenge Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.challenge?view=aspnetcore-3.1 <br />
 ControllerBase.BadRequest Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.badrequest?view=aspnetcore-3.1 <br />
 ControllerBase.AcceptedAtRoute Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.acceptedatroute?view=aspnetcore-3.1 <br />
-ControllerBase.Accepted Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.accepted?view=aspnetcore-3.1
+ControllerBase.Accepted Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.accepted?view=aspnetcore-3.1 <br />
+ControllerBase.PhysicalFile Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.physicalfile?view=aspnetcore-3.1 <br />
+ControllerBase.NotFound Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.notfound?view=aspnetcore-3.1 <br />
+ControllerBase.NoContent Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.nocontent?view=aspnetcore-3.1 <br />
 
 **_ControllerContext API by Microsoft_** <br />
 ControllerContext Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controllercontext?view=aspnet-mvc-5.2 <br />
@@ -164,6 +170,7 @@ HttpContext Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.httpc
 
 **_HttpRequest API by Microsoft_** <br />
 HttpRequest Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.httprequest?view=netframework-4.8 <br />
+HttpRequest.PhysicalPath Property : https://docs.microsoft.com/en-us/dotnet/api/system.web.httprequest.physicalpath?view=netframework-4.8 <br />
 
 **_HttpResponse API by Microsoft_** <br />
 HttpResponse Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.httpresponse?view=netframework-4.8 <br />
@@ -272,11 +279,30 @@ ModelStateDictionary Class : https://docs.microsoft.com/en-us/dotnet/api/system.
 MvcServiceCollectionExtensions.AddControllers Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.dependencyinjection.mvcservicecollectionextensions.addcontrollers?view=aspnetcore-3.1 <br />
 MvcServiceCollectionExtensions.AddControllersWithViews Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.dependencyinjection.mvcservicecollectionextensions.addcontrollerswithviews?view=aspnetcore-3.1 <br />
 
+**_NoContentResult API by Microsoft_** <br />
+NoContentResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.nocontentresult?view=aspnetcore-3.1 <br />
+
+**_NotFoundObjectResult API by Microsoft_** <br />
+NotFoundObjectResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.notfoundobjectresult?view=aspnetcore-3.1 <br />
+
 **_ObjectModelValidator API by Microsoft_** <br />
 ObjectModelValidator Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.modelbinding.objectmodelvalidator?view=aspnetcore-3.1 <br />
 
+**_ObjectResult API by Microsoft_** <br />
+ObjectResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.objectresult?view=aspnetcore-3.1 <br />
+ObjectResult.Value Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.objectresult.value?view=aspnetcore-3.1 <br />
+
+**_OkObjectResult API by Microsoft_** <br />
+OkObjectResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.okobjectresult?view=aspnetcore-3.1 <br />
+
+**_OkResult API by Microsoft_** <br />
+OkResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.okresult?view=aspnetcore-3.1 <br />
+
 **_PartialViewResult API by Microsoft_** <br />
 PartialViewResult Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.partialviewresult?view=aspnet-mvc-5.2 <br />
+
+**_PhysicalFileResult API by Microsoft_** <br />
+PhysicalFileResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.physicalfileresult?view=aspnetcore-3.1 <br />
 
 **_ProblemDetailsFactory API by Microsoft_** <br />
 ProblemDetailsFactory Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.infrastructure.problemdetailsfactory?view=aspnetcore-3.1 <br />
@@ -286,6 +312,9 @@ RouteData Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.routing
 
 **_RowDefinition API by Microsoft_** <br /> 
 RowDefinition Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.rowdefinition?view=netframework-4.8 <br />
+
+**_StatusCodes API by Microsoft_** <br /> 
+StatusCodes Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.statuscodes?view=aspnetcore-3.1 <br />
 
 **_Stream.WriteAsync API by Microsoft_** <br /> 
 Stream.WriteAsync Method : https://docs.microsoft.com/en-us/dotnet/api/system.io.stream.writeasync?view=netframework-4.8 <br />
