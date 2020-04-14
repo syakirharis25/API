@@ -177,6 +177,7 @@ String.ToLower Method : https://docs.microsoft.com/en-us/dotnet/api/system.strin
 String.Contains Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.contains?view=netframework-4.8 <br />
 String.IndexOf Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.indexof?view=netframework-4.8 <br />
 String.Substring Method : https://docs.microsoft.com/en-us/dotnet/api/system.string.substring?view=netframework-4.8 <br />
+String Class : https://docs.microsoft.com/en-us/dotnet/api/system.string?view=netframework-4.8 <br />
 
 **_System API by Microsoft_** <br />
 System Namespace : https://docs.microsoft.com/en-us/dotnet/api/system?view=netframework-4.8 <br />
