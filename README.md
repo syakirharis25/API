@@ -36,6 +36,9 @@ Using Fetch by Mozilla : https://developer.mozilla.org/en-US/docs/Web/API/Fetch_
 <a name="microsoft"></a>
 ## 3. API by Microsoft
 
+**_AcceptedResult API by Microsoft_** <br />
+AcceptedResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.acceptedresult?view=aspnetcore-3.1 <br />
+
 **_ActionExecutedContext API by Microsoft_** <br />
 ActionExecutedContext Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.actionexecutedcontext?view=aspnet-mvc-5.2 <br />
 
@@ -90,6 +93,7 @@ ControllerBase.Conflict Method : https://docs.microsoft.com/en-us/dotnet/api/mic
 ControllerBase.Challenge Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.challenge?view=aspnetcore-3.1 <br />
 ControllerBase.BadRequest Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.badrequest?view=aspnetcore-3.1 <br />
 ControllerBase.AcceptedAtRoute Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.acceptedatroute?view=aspnetcore-3.1 <br />
+ControllerBase.Accepted Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.accepted?view=aspnetcore-3.1
 
 **_ControllerContext API by Microsoft_** <br />
 ControllerContext Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controllercontext?view=aspnet-mvc-5.2 <br />
@@ -319,6 +323,9 @@ Task Class : https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.
 
 **_Type API by Microsoft_** <br />
 Type Class : https://docs.microsoft.com/en-us/dotnet/api/system.type?view=netframework-4.8 <br />
+
+**_Uri API by Microsoft_** <br />
+Uri Class : https://docs.microsoft.com/en-us/dotnet/api/system.uri?view=netframework-4.8 <br />
 
 **_VerticalAlignment API by Microsoft_** <br />
 VerticalAlignment Enum : https://docs.microsoft.com/en-us/dotnet/api/system.windows.verticalalignment?view=netframework-4.8 <br />
