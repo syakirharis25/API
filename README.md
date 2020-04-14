@@ -48,6 +48,9 @@ ActionExecutionDelegate Delegate : https://docs.microsoft.com/en-us/dotnet/api/m
 **_Application API by Microsoft_** <br />
 Application.MainWindow Property : https://docs.microsoft.com/en-us/dotnet/api/system.windows.application.mainwindow?view=netframework-4.8 <br />
 
+**_AuthenticationProperties API by Microsoft_** <br />
+AuthenticationProperties Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.authentication.authenticationproperties?view=aspnetcore-2.2 <br />
+
 **_Char API by Microsoft_** <br />
 Char.IsUpper Method : https://docs.microsoft.com/en-us/dotnet/api/system.char.isupper?view=netframework-4.8 <br />
 Char.IsDigit Method : https://docs.microsoft.com/en-us/dotnet/api/system.char.isdigit?view=netframework-4.8 <br />
@@ -84,6 +87,9 @@ ControllerBase Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.asp
 ControllerBase.MetadataProvider Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.metadataprovider?view=aspnetcore-3.1 <br />
 ControllerBase.CreatedAtAction Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.createdataction?view=aspnetcore-3.1 <br />
 ControllerBase.Conflict Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.conflict?view=aspnetcore-3.1 <br />
+ControllerBase.Challenge Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.challenge?view=aspnetcore-3.1 <br />
+ControllerBase.BadRequest Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.badrequest?view=aspnetcore-3.1 <br />
+ControllerBase.AcceptedAtRoute Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.acceptedatroute?view=aspnetcore-3.1 <br />
 
 **_ControllerContext API by Microsoft_** <br />
 ControllerContext Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controllercontext?view=aspnet-mvc-5.2 <br />
