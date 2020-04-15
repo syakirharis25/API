@@ -109,6 +109,7 @@ ControllerBase.RedirectToPagePermanentPreserveMethod(String, String, Object, Str
 ControllerBase.RedirectToPagePermanent Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.redirecttopagepermanent?view=aspnetcore-3.1 <br />
 ControllerBase.RedirectToActionPermanent Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.redirecttoactionpermanent?view=aspnetcore-3.1 <br />
 ControllerBase.ValidationProblem Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.validationproblem?view=aspnetcore-3.1 <br />
+ControllerBase.UnprocessableEntity Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.unprocessableentity?view=aspnetcore-3.1 <br />
 
 **_ControllerContext API by Microsoft_** <br />
 ControllerContext Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controllercontext?view=aspnet-mvc-5.2 <br />
@@ -399,6 +400,9 @@ Task Class : https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.
 
 **_Type API by Microsoft_** <br />
 Type Class : https://docs.microsoft.com/en-us/dotnet/api/system.type?view=netframework-4.8 <br />
+
+**_UnprocessableEntityObjectResult API by Microsoft_** <br />
+UnprocessableEntityObjectResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.unprocessableentityobjectresult?view=aspnetcore-3.1 <br />
 
 **_Uri API by Microsoft_** <br />
 Uri Class : https://docs.microsoft.com/en-us/dotnet/api/system.uri?view=netframework-4.8 <br />
