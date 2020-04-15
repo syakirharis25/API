@@ -394,6 +394,9 @@ System.Windows.Shapes Namespace : https://docs.microsoft.com/en-us/dotnet/api/sy
 System.Threading.Tasks Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks?view=netframework-4.8 <br />
 System.Windows Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.windows?view=netframework-4.8 <br />
 System.Net Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.net?view=netframework-4.8 <br />
+System.Collections.Generic Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic?view=netframework-4.8 <br />
+System.Linq Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.linq?view=netframework-4.8 <br />
+System.Threading.Tasks Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks?view=netframework-4.8 <br />
 
 **_Task API by Microsoft_** <br />
 Task Class : https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=netframework-4.8 <br />
