@@ -104,6 +104,7 @@ ControllerBase.PhysicalFile Method : https://docs.microsoft.com/en-us/dotnet/api
 ControllerBase.NotFound Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.notfound?view=aspnetcore-3.1 <br />
 ControllerBase.NoContent Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.nocontent?view=aspnetcore-3.1 <br />
 ControllerBase.Forbid Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.forbid?view=aspnetcore-3.1 <br />
+ControllerBase.TryUpdateModelAsync Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.tryupdatemodelasync?view=aspnetcore-3.1 <br />
 
 **_ControllerContext API by Microsoft_** <br />
 ControllerContext Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controllercontext?view=aspnet-mvc-5.2 <br />
@@ -186,6 +187,9 @@ HostingEnvironmentExtensions.IsProduction(IHostingEnvironment) Method : https://
 **_HorizontalAlignment API by Microsoft_** <br />
 HorizontalAlignment Enum : https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.horizontalalignment?view=netframework-4.8 <br />
 
+**_HtmlHelper<TModel> API by Microsoft_** <br />
+HtmlHelper<TModel> Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.htmlhelper-1?view=aspnet-mvc-5.2 <br />
+
 **_HttpContext API by Microsoft_** <br />
 HttpContext Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.httpcontext?view=netframework-4.8 <br />
 
@@ -236,6 +240,9 @@ IModelBinderFactory Interface : https://docs.microsoft.com/en-us/dotnet/api/micr
 **_IModelMetadataProvider API by Microsoft_** <br />
 IModelMetadataProvider Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.modelbinding.imodelmetadataprovider?view=aspnetcore-3.1 <br />
 
+**_IncludeExpression API by Microsoft_** <br />
+IncludeExpression Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.query.includeexpression?view=efcore-3.1 <br />
+
 **_IObjectModelValidator API by Microsoft_** <br />
 IObjectModelValidator Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.modelbinding.validation.iobjectmodelvalidator?view=aspnetcore-3.1 <br />
 
@@ -247,6 +254,9 @@ ITempDataDictionary Interface : https://docs.microsoft.com/en-us/dotnet/api/micr
 
 **_IUrlHelper API by Microsoft_** <br />
 IUrlHelper Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.iurlhelper?view=aspnetcore-3.1 <br />
+
+**_IValueProvider API by Microsoft_** <br />
+IValueProvider Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.modelbinding.ivalueprovider?view=aspnetcore-3.1 <br />
 
 **_IWebHostBuilder API by Microsoft_** <br />
 IWebHostBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.iwebhostbuilder?view=aspnetcore-3.1 <br />
@@ -289,6 +299,9 @@ Microsoft.Extensions.Hosting Namespace : https://docs.microsoft.com/en-us/dotnet
 
 **_ModelBinderFactory API by Microsoft_** <br />
 ModelBinderFactory Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.modelbinding.modelbinderfactory?view=aspnetcore-3.1 <br />
+
+**_ModelMetadata API by Microsoft_** <br /> 
+ModelMetadata Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.modelmetadata?view=aspnet-mvc-5.2 <br />
 
 **_ModelState API by Microsoft_** <br />
 ModelState Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.modelstate?view=aspnet-mvc-5.2 <br />
