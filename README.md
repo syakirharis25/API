@@ -105,6 +105,9 @@ ControllerBase.NotFound Method : https://docs.microsoft.com/en-us/dotnet/api/mic
 ControllerBase.NoContent Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.nocontent?view=aspnetcore-3.1 <br />
 ControllerBase.Forbid Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.forbid?view=aspnetcore-3.1 <br />
 ControllerBase.TryUpdateModelAsync Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.tryupdatemodelasync?view=aspnetcore-3.1 <br />
+ControllerBase.RedirectToPagePermanentPreserveMethod(String, String, Object, String) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.redirecttopagepermanentpreservemethod?view=aspnetcore-3.1 <br />
+ControllerBase.RedirectToPagePermanent Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.redirecttopagepermanent?view=aspnetcore-3.1 <br />
+ControllerBase.RedirectToActionPermanent Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase.redirecttoactionpermanent?view=aspnetcore-3.1 <br />
 
 **_ControllerContext API by Microsoft_** <br />
 ControllerContext Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.controllercontext?view=aspnet-mvc-5.2 <br />
@@ -341,11 +344,17 @@ PhysicalFileResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft
 **_ProblemDetailsFactory API by Microsoft_** <br />
 ProblemDetailsFactory Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.infrastructure.problemdetailsfactory?view=aspnetcore-3.1 <br />
 
+**_RedirectToActionResult API by Microsoft_** <br />
+RedirectToActionResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.redirecttoactionresult?view=aspnetcore-3.1 <br />
+
 **_RouteData API by Microsoft_** <br />
 RouteData Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.routing.routedata?view=netframework-4.8 <br />
 
 **_RowDefinition API by Microsoft_** <br /> 
 RowDefinition Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.rowdefinition?view=netframework-4.8 <br />
+
+**_SignInResult API by Microsoft_** <br /> 
+SignInResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.signinresult?view=aspnetcore-3.1 <br />
 
 **_StatusCodes API by Microsoft_** <br /> 
 StatusCodes Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.statuscodes?view=aspnetcore-3.1 <br />
