@@ -269,6 +269,9 @@ IWebHostBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsof
 **_IWebHostEnvironment API by Microsoft_** <br />
 IWebHostEnvironment Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.iwebhostenvironment?view=aspnetcore-3.1 <br />
 
+**_List\<T> API by Microsoft_** <br />
+List<T> Class : https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1?view=netframework-4.8 <br />
+
 **_Microsoft.AspNetCore.Builder API by Microsoft_** <br />
 Microsoft.AspNetCore.Builder Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder?view=aspnetcore-3.1 <br />
 
