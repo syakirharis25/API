@@ -420,6 +420,9 @@ VerticalAlignment Enum : https://docs.microsoft.com/en-us/dotnet/api/system.wind
 **_ViewComponentResult API by Microsoft_** <br />
 ViewComponentResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.viewcomponentresult?view=aspnetcore-3.1 <br />
 
+**_ViewContext API by Microsoft_** <br />
+ViewContext Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.viewcontext?view=aspnet-mvc-5.2 <br />
+
 **_ViewDataDictionary API by Microsoft_** <br />
 ViewDataDictionary Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.viewdatadictionary?view=aspnet-mvc-5.2 <br />
 
