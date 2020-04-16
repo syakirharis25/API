@@ -236,6 +236,9 @@ IHostEnvironment Interface : https://docs.microsoft.com/en-us/dotnet/api/microso
 **_IHostedService API by Microsoft_** <br />
 IHostedService Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.ihostedservice?view=dotnet-plat-ext-3.1 <br />
 
+**_IHtmlContent API by Microsoft_** <br />
+IHtmlContent Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.html.ihtmlcontent?view=aspnetcore-3.1 <br />
+
 **_ILoggerFactory API by Microsoft_** <br />
 ILoggerFactory Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.logging.iloggerfactory?view=dotnet-plat-ext-3.1 <br />
 
@@ -348,6 +351,9 @@ PhysicalFileResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft
 
 **_ProblemDetailsFactory API by Microsoft_** <br />
 ProblemDetailsFactory Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.infrastructure.problemdetailsfactory?view=aspnetcore-3.1 <br />
+
+**_RazorPageBase API by Microsoft_** <br />
+RazorPageBase.BodyContent Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.bodycontent?view=aspnetcore-3.1 <br />
 
 **_RedirectToActionResult API by Microsoft_** <br />
 RedirectToActionResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.redirecttoactionresult?view=aspnetcore-3.1 <br />
