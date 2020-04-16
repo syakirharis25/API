@@ -137,6 +137,9 @@ CreatedResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspn
 **_DeveloperExceptionPageExtensions API by Microsoft_** <br />
 DeveloperExceptionPageExtensions.UseDeveloperExceptionPage Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.developerexceptionpageextensions.usedeveloperexceptionpage?view=aspnetcore-3.1 <br />
 
+**_DiagnosticSource API by Microsoft_** <br />
+DiagnosticSource Class : https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.diagnosticsource?view=netcore-3.1 <br />
+
 **_Dictionary API by Microsoft_** <br />
 Dictionary<TKey,TValue>.ContainsKey(TKey) Method : https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2.containskey?view=netframework-4.8 <br />
 
@@ -157,6 +160,9 @@ EndpointRoutingApplicationBuilderExtensions.UseEndpoints(IApplicationBuilder, Ac
 Exception Class : https://docs.microsoft.com/en-us/dotnet/api/system.exception?view=netframework-4.8 <br />
 DivideByZeroException Class : https://docs.microsoft.com/en-us/dotnet/api/system.dividebyzeroexception?view=netframework-4.8 <br />
 FormatException Class : https://docs.microsoft.com/en-us/dotnet/api/system.formatexception?view=netframework-4.8 <br />
+
+**_File API by Microsoft_** <br />
+File Class : https://docs.microsoft.com/en-us/dotnet/api/system.io.file?view=netframework-4.8 <br />
 
 **_FileContentResult API by Microsoft_** <br />
 FileContentResult Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.filecontentresult?view=aspnet-mvc-5.2 <br />
@@ -218,6 +224,9 @@ IApplicationBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/micr
 **_IConfiguration API by Microsoft_** <br />
 IConfiguration Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.configuration.iconfiguration?view=dotnet-plat-ext-3.1 <br />
 
+**_IDictionary<TKey,TValue> by Microsoft_** <br />
+IDictionary<TKey,TValue> Interface : https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.idictionary-2?view=netframework-4.8 <br />
+
 **_IDisposable API by Microsoft_** <br />
 IDisposable Interface : https://docs.microsoft.com/en-us/dotnet/api/system.idisposable?view=netframework-4.8 <br />
 
@@ -250,6 +259,10 @@ IModelMetadataProvider Interface : https://docs.microsoft.com/en-us/dotnet/api/m
 
 **_IncludeExpression API by Microsoft_** <br />
 IncludeExpression Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.query.includeexpression?view=efcore-3.1 <br />
+
+**_IRazorPage API by Microsoft_** <br />
+IRazorPage.IsLayoutBeingRendered Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.irazorpage.islayoutbeingrendered?view=aspnetcore-3.1 <br />
+IRazorPage Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.irazorpage?view=aspnetcore-3.1 <br />
 
 **_IObjectModelValidator API by Microsoft_** <br />
 IObjectModelValidator Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.modelbinding.validation.iobjectmodelvalidator?view=aspnetcore-3.1 <br />
@@ -352,11 +365,19 @@ PhysicalFileResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft
 **_ProblemDetailsFactory API by Microsoft_** <br />
 ProblemDetailsFactory Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.infrastructure.problemdetailsfactory?view=aspnetcore-3.1 <br />
 
+**_RazorPage API by Microsoft_** <br />
+RazorPage.PreviousSectionWriters Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.previoussectionwriters?view=aspnetcore-1.1 <br />
+RazorPage.SectionWriters Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.sectionwriters?view=aspnetcore-1.1 <br />
+
 **_RazorPageBase API by Microsoft_** <br />
 RazorPageBase.BodyContent Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.bodycontent?view=aspnetcore-3.1 <br />
+RazorPageBase Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase?view=aspnetcore-3.1 <br />
 
 **_RedirectToActionResult API by Microsoft_** <br />
 RedirectToActionResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.redirecttoactionresult?view=aspnetcore-3.1 <br />
+
+**_RenderAsyncDelegate API by Microsoft_** <br />
+RenderAsyncDelegate Delegate : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.renderasyncdelegate?view=aspnetcore-3.1 <br />
 
 **_RouteData API by Microsoft_** <br />
 RouteData Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.routing.routedata?view=netframework-4.8 <br />
@@ -407,12 +428,17 @@ System.Net Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.net?vi
 System.Collections.Generic Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic?view=netframework-4.8 <br />
 System.Linq Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.linq?view=netframework-4.8 <br />
 System.Threading.Tasks Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks?view=netframework-4.8 <br />
+System.Security Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.security?view=netframework-4.8 <br />
+System.Runtime.CompilerServices Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.runtime.compilerservices?view=netframework-4.8 <br />
 
 **_Task API by Microsoft_** <br />
 Task Class : https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=netframework-4.8 <br />
 
 **_Type API by Microsoft_** <br />
 Type Class : https://docs.microsoft.com/en-us/dotnet/api/system.type?view=netframework-4.8 <br />
+
+**_TextWriter API by Microsoft_** <br />
+TextWriter Class : https://docs.microsoft.com/en-us/dotnet/api/system.io.textwriter?view=netframework-4.8 <br />
 
 **_UnprocessableEntityObjectResult API by Microsoft_** <br />
 UnprocessableEntityObjectResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.unprocessableentityobjectresult?view=aspnetcore-3.1 <br />
