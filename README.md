@@ -370,6 +370,8 @@ RazorPage.SectionWriters Property : https://docs.microsoft.com/en-us/dotnet/api/
 RazorPage.EndTagHelperWritingScope Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.endtaghelperwritingscope?view=aspnetcore-1.1 <br />
 RazorPage.DefineSection(String, RenderAsyncDelegate) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.definesection?view=aspnetcore-3.1 <br />
 RazorPage.BeginAddHtmlAttributeValues(TagHelperExecutionContext, String, Int32, HtmlAttributeValueStyle) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.beginaddhtmlattributevalues?view=aspnetcore-1.1 <br />
+RazorPage.AddHtmlAttributeValue(String, Int32, Object, Int32, Int32, Boolean) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.addhtmlattributevalue?view=aspnetcore-1.1 <br />
+RazorPage.EnsureRenderedBodyOrSections Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.ensurerenderedbodyorsections?view=aspnetcore-3.1 <br />
 
 **_RazorPageBase API by Microsoft_** <br />
 RazorPageBase.BodyContent Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.bodycontent?view=aspnetcore-3.1 <br />
@@ -378,6 +380,7 @@ RazorPageBase.EndAddHtmlAttributeValues(TagHelperExecutionContext) Method : http
 RazorPage.BeginWriteTagHelperAttribute Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.beginwritetaghelperattribute?view=aspnetcore-1.1 <br />
 RazorPage.BeginWriteAttribute(String, String, Int32, String, Int32, Int32) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.beginwriteattribute?view=aspnetcore-1.1 <br />
 RazorPageBase.BeginContext(Int32, Int32, Boolean) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.begincontext?view=aspnetcore-3.1 <br />
+RazorPageBase.ExecuteAsync Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.executeasync?view=aspnetcore-3.1 <br />
 
 **_RedirectToActionResult API by Microsoft_** <br />
 RedirectToActionResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.redirecttoactionresult?view=aspnetcore-3.1 <br />
