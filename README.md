@@ -161,6 +161,9 @@ Exception Class : https://docs.microsoft.com/en-us/dotnet/api/system.exception?v
 DivideByZeroException Class : https://docs.microsoft.com/en-us/dotnet/api/system.dividebyzeroexception?view=netframework-4.8 <br />
 FormatException Class : https://docs.microsoft.com/en-us/dotnet/api/system.formatexception?view=netframework-4.8 <br />
 
+**_ExecutionContext API by Microsoft_** <br />
+ExecutionContext Class : https://docs.microsoft.com/en-us/dotnet/api/system.threading.executioncontext?view=netframework-4.8 <br />
+
 **_File API by Microsoft_** <br />
 File Class : https://docs.microsoft.com/en-us/dotnet/api/system.io.file?view=netframework-4.8 <br />
 
@@ -197,6 +200,9 @@ HostingEnvironmentExtensions.IsProduction(IHostingEnvironment) Method : https://
 
 **_HorizontalAlignment API by Microsoft_** <br />
 HorizontalAlignment Enum : https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.horizontalalignment?view=netframework-4.8 <br />
+
+**_HtmlAttributeValueStyle API by Microsoft_** <br />
+HtmlAttributeValueStyle Enum : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.razor.taghelpers.htmlattributevaluestyle?view=aspnetcore-3.1 <br />
 
 **_HtmlHelper<TModel> API by Microsoft_** <br />
 HtmlHelper<TModel> Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.htmlhelper-1?view=aspnet-mvc-5.2 <br />
@@ -361,10 +367,17 @@ ProblemDetailsFactory Class : https://docs.microsoft.com/en-us/dotnet/api/micros
 **_RazorPage API by Microsoft_** <br />
 RazorPage.PreviousSectionWriters Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.previoussectionwriters?view=aspnetcore-1.1 <br />
 RazorPage.SectionWriters Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.sectionwriters?view=aspnetcore-1.1 <br />
+RazorPage.EndTagHelperWritingScope Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.endtaghelperwritingscope?view=aspnetcore-1.1 <br />
+RazorPage.DefineSection(String, RenderAsyncDelegate) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.definesection?view=aspnetcore-3.1 <br />
+RazorPage.BeginAddHtmlAttributeValues(TagHelperExecutionContext, String, Int32, HtmlAttributeValueStyle) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.beginaddhtmlattributevalues?view=aspnetcore-1.1 <br />
 
 **_RazorPageBase API by Microsoft_** <br />
 RazorPageBase.BodyContent Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.bodycontent?view=aspnetcore-3.1 <br />
 RazorPageBase Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase?view=aspnetcore-3.1 <br />
+RazorPageBase.EndAddHtmlAttributeValues(TagHelperExecutionContext) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.endaddhtmlattributevalues?view=aspnetcore-3.1 <br />
+RazorPage.BeginWriteTagHelperAttribute Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.beginwritetaghelperattribute?view=aspnetcore-1.1 <br />
+RazorPage.BeginWriteAttribute(String, String, Int32, String, Int32, Int32) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.beginwriteattribute?view=aspnetcore-1.1 <br />
+RazorPageBase.BeginContext(Int32, Int32, Boolean) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.begincontext?view=aspnetcore-3.1 <br />
 
 **_RedirectToActionResult API by Microsoft_** <br />
 RedirectToActionResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.redirecttoactionresult?view=aspnetcore-3.1 <br />
@@ -423,6 +436,12 @@ System.Linq Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.linq?
 System.Threading.Tasks Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks?view=netframework-4.8 <br />
 System.Security Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.security?view=netframework-4.8 <br />
 System.Runtime.CompilerServices Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.runtime.compilerservices?view=netframework-4.8 <br />
+
+**_TagHelperContext API by Microsoft_** <br />
+TagHelperContext Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.razor.taghelpers.taghelpercontext?view=aspnetcore-3.1 <br />
+
+**_TagHelperExecutionContext API by Microsoft_** <br />
+TagHelperExecutionContext Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.razor.runtime.taghelpers.taghelperexecutioncontext?view=aspnetcore-3.1 <br />
 
 **_TagHelperTypeResolver API by Microsoft_** <br />
 TagHelperTypeResolver Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.razor.runtime.taghelpers.taghelpertyperesolver?view=aspnetcore-1.1 <br />
