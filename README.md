@@ -306,20 +306,13 @@ Math.Round Method : https://docs.microsoft.com/en-us/dotnet/api/system.math.roun
 **_MediaTypeHeaderValue API by Microsoft_** <br />
 MediaTypeHeaderValue Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.net.http.headers.mediatypeheadervalue?view=aspnetcore-3.1 <br />
 
-**_Microsoft.AspNetCore.Hosting API by Microsoft_** <br />
+**_Microsoft API by Microsoft_** <br />
 Microsoft.AspNetCore.Hosting Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting?view=aspnetcore-3.1 <br />
-
-**_Microsoft.AspNetCore.Http API by Microsoft_** <br />
 Microsoft.AspNetCore.Http Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http?view=aspnetcore-3.1 <br />
-
-**_Microsoft.AspNetCore.Mvc API by Microsoft_** <br />
 Microsoft.AspNetCore.Mvc Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc?view=aspnetcore-3.1 <br />
-
-**_Microsoft.Extensions.DependencyInjection API by Microsoft_** <br />
 Microsoft.Extensions.DependencyInjection Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.dependencyinjection?view=dotnet-plat-ext-3.1 <br />
-
-**_Microsoft.Extensions.Hosting API by Microsoft_** <br />
 Microsoft.Extensions.Hosting Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting?view=dotnet-plat-ext-3.1 <br />
+Microsoft.AspNetCore.Mvc.ViewFeatures Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.viewfeatures?view=aspnetcore-3.1 <br />
 
 **_ModelBinderFactory API by Microsoft_** <br />
 ModelBinderFactory Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.modelbinding.modelbinderfactory?view=aspnetcore-3.1 <br />
@@ -430,6 +423,9 @@ System.Linq Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.linq?
 System.Threading.Tasks Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks?view=netframework-4.8 <br />
 System.Security Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.security?view=netframework-4.8 <br />
 System.Runtime.CompilerServices Namespace : https://docs.microsoft.com/en-us/dotnet/api/system.runtime.compilerservices?view=netframework-4.8 <br />
+
+**_TagHelperTypeResolver API by Microsoft_** <br />
+TagHelperTypeResolver Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.razor.runtime.taghelpers.taghelpertyperesolver?view=aspnetcore-1.1 <br />
 
 **_Task API by Microsoft_** <br />
 Task Class : https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=netframework-4.8 <br />
