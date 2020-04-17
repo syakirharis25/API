@@ -387,6 +387,7 @@ RazorPageBase.BeginContext(Int32, Int32, Boolean) Method : https://docs.microsof
 RazorPageBase.ExecuteAsync Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.executeasync?view=aspnetcore-3.1 <br />
 RazorPageBase.PushWriter(TextWriter) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.pushwriter?view=aspnetcore-3.1 <br />
 RazorPageBase.PopWriter Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.popwriter?view=aspnetcore-3.1 <br />
+RazorPageBase.WriteAttributeValue(String, Int32, Object, Int32, Int32, Boolean) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.writeattributevalue?view=aspnetcore-3.1 <br />
 
 **_RedirectToActionResult API by Microsoft_** <br />
 RedirectToActionResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.redirecttoactionresult?view=aspnetcore-3.1 <br />
