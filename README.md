@@ -254,6 +254,9 @@ IDisposable Interface : https://docs.microsoft.com/en-us/dotnet/api/system.idisp
 **_IEndpointConventionBuilder API by Microsoft_** <br />
 IEndpointConventionBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.iendpointconventionbuilder?view=aspnetcore-3.1 <br />
 
+**_IFileProvider API by Microsoft_** <br />
+IFileProvider Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.fileproviders.ifileprovider?view=dotnet-plat-ext-3.1 <br />
+
 **_IFilterMetadata API by Microsoft_** <br />
 IFilterMetadata Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.filters.ifiltermetadata?view=aspnetcore-3.1 <br />
 
@@ -335,6 +338,7 @@ Microsoft.Extensions.DependencyInjection Namespace : https://docs.microsoft.com/
 Microsoft.Extensions.Hosting Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting?view=dotnet-plat-ext-3.1 <br />
 Microsoft.AspNetCore.Mvc.ViewFeatures Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.viewfeatures?view=aspnetcore-3.1 <br />
 Microsoft.AspNetCore.Http.Features Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.features?view=aspnetcore-3.1 <br />
+Microsoft.AspNetCore.Http.Features Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.features?view=aspnetcore-3.1 <br />
 
 **_ModelBinderFactory API by Microsoft_** <br />
 ModelBinderFactory Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.modelbinding.modelbinderfactory?view=aspnetcore-3.1 <br />
@@ -373,6 +377,9 @@ OkResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcor
 
 **_PartialViewResult API by Microsoft_** <br />
 PartialViewResult Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.mvc.partialviewresult?view=aspnet-mvc-5.2 <br />
+
+**_PathString API by Microsoft_** <br />
+PathString Struct : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.pathstring?view=aspnetcore-3.1 <br />
 
 **_PhysicalFileResult API by Microsoft_** <br />
 PhysicalFileResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.physicalfileresult?view=aspnetcore-3.1 <br />
