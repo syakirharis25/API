@@ -187,6 +187,9 @@ Filters in ASP.NET Core : https://docs.microsoft.com/en-us/aspnet/core/mvc/contr
 **_ForbidResult API by Microsoft_** <br />
 ForbidResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.forbidresult?view=aspnetcore-3.1 <br />
 
+**_Func<T,TResult> API by Microsoft_** <br />
+Func<T,TResult> Delegate : https://docs.microsoft.com/en-us/dotnet/api/system.func-2?view=netframework-4.8 <br />
+
 **_GenericHostBuilderExtensions API by Microsoft_** <br />
 GenericHostBuilderExtensions Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.generichostbuilderextensions?view=aspnetcore-3.1 <br />
 GenericHostBuilderExtensions.ConfigureWebHostDefaults(IHostBuilder, Action<IWebHostBuilder>) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting.generichostbuilderextensions.configurewebhostdefaults?view=aspnetcore-3.1 <br />
@@ -372,7 +375,7 @@ RazorPage.DefineSection(String, RenderAsyncDelegate) Method : https://docs.micro
 RazorPage.BeginAddHtmlAttributeValues(TagHelperExecutionContext, String, Int32, HtmlAttributeValueStyle) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.beginaddhtmlattributevalues?view=aspnetcore-1.1 <br />
 RazorPage.AddHtmlAttributeValue(String, Int32, Object, Int32, Int32, Boolean) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.addhtmlattributevalue?view=aspnetcore-1.1 <br />
 RazorPage.EnsureRenderedBodyOrSections Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.ensurerenderedbodyorsections?view=aspnetcore-3.1 <br />
-RazorPageBase.PushWriter(TextWriter) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.pushwriter?view=aspnetcore-3.1 <br />
+RazorPage.WriteLiteral(Object) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.writeliteral?view=aspnetcore-1.1 <br />
 
 **_RazorPageBase API by Microsoft_** <br />
 RazorPageBase.BodyContent Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.bodycontent?view=aspnetcore-3.1 <br />
@@ -382,6 +385,8 @@ RazorPage.BeginWriteTagHelperAttribute Method : https://docs.microsoft.com/en-us
 RazorPage.BeginWriteAttribute(String, String, Int32, String, Int32, Int32) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.beginwriteattribute?view=aspnetcore-1.1 <br />
 RazorPageBase.BeginContext(Int32, Int32, Boolean) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.begincontext?view=aspnetcore-3.1 <br />
 RazorPageBase.ExecuteAsync Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.executeasync?view=aspnetcore-3.1 <br />
+RazorPageBase.PushWriter(TextWriter) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.pushwriter?view=aspnetcore-3.1 <br />
+RazorPageBase.PopWriter Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.popwriter?view=aspnetcore-3.1 <br />
 
 **_RedirectToActionResult API by Microsoft_** <br />
 RedirectToActionResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.redirecttoactionresult?view=aspnetcore-3.1 <br />
