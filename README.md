@@ -219,6 +219,9 @@ HtmlEncoder Class : https://docs.microsoft.com/en-us/dotnet/api/system.text.enco
 **_HtmlString API by Microsoft_** <br />
 HtmlString Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.htmlstring?view=netframework-4.8 <br />
 
+**_HttpsCompressionMode API by Microsoft_** <br />
+HttpsCompressionMode Enum : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.features.httpscompressionmode?view=aspnetcore-3.1 <br />
+
 **_HttpRequest API by Microsoft_** <br />
 HttpRequest Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.httprequest?view=netframework-4.8 <br />
 HttpRequest.PhysicalPath Property : https://docs.microsoft.com/en-us/dotnet/api/system.web.httprequest.physicalpath?view=netframework-4.8 <br />
@@ -238,6 +241,9 @@ IApplicationBuilder Interface : https://docs.microsoft.com/en-us/dotnet/api/micr
 
 **_IConfiguration API by Microsoft_** <br />
 IConfiguration Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.configuration.iconfiguration?view=dotnet-plat-ext-3.1 <br />
+
+**_IContentTypeProvider API by Microsoft_** <br />
+IContentTypeProvider Interface : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.staticfiles.icontenttypeprovider?view=aspnetcore-3.1 <br />
 
 **_IDictionary<TKey,TValue> by Microsoft_** <br />
 IDictionary<TKey,TValue> Interface : https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.idictionary-2?view=netframework-4.8 <br />
@@ -328,6 +334,7 @@ Microsoft.AspNetCore.Mvc Namespace : https://docs.microsoft.com/en-us/dotnet/api
 Microsoft.Extensions.DependencyInjection Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.dependencyinjection?view=dotnet-plat-ext-3.1 <br />
 Microsoft.Extensions.Hosting Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.hosting?view=dotnet-plat-ext-3.1 <br />
 Microsoft.AspNetCore.Mvc.ViewFeatures Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.viewfeatures?view=aspnetcore-3.1 <br />
+Microsoft.AspNetCore.Http.Features Namespace : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.features?view=aspnetcore-3.1 <br />
 
 **_ModelBinderFactory API by Microsoft_** <br />
 ModelBinderFactory Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.modelbinding.modelbinderfactory?view=aspnetcore-3.1 <br />
@@ -413,8 +420,16 @@ RowDefinition Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows
 **_SignInResult API by Microsoft_** <br /> 
 SignInResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.signinresult?view=aspnetcore-3.1 <br />
 
-**_StaticFileOptions.OnPrepareResponse API by Microsoft_** <br /> 
+**_SharedOptions API by Microsoft_** <br /> 
+SharedOptions Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.staticfiles.infrastructure.sharedoptions?view=aspnetcore-3.1 <br />
+
+**_SharedOptionsBase API by Microsoft_** <br /> 
+SharedOptionsBase Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.staticfiles.infrastructure.sharedoptionsbase?view=aspnetcore-3.1 <br />
+
+**_StaticFileOptions API by Microsoft_** <br /> 
 StaticFileOptions.OnPrepareResponse Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.staticfileoptions.onprepareresponse?view=aspnetcore-3.1 <br />
+StaticFileOptions.ContentTypeProvider Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.staticfileoptions.contenttypeprovider?view=aspnetcore-3.1 <br />
+StaticFileOptions Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.staticfileoptions?view=aspnetcore-3.1 <br />
 
 **_StaticFileResponseContext API by Microsoft_** <br /> 
 StaticFileResponseContext Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.staticfiles.staticfileresponsecontext?view=aspnetcore-3.1 <br />
