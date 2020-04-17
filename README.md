@@ -213,6 +213,12 @@ HtmlHelper<TModel> Class : https://docs.microsoft.com/en-us/dotnet/api/system.we
 **_HttpContext API by Microsoft_** <br />
 HttpContext Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.httpcontext?view=netframework-4.8 <br />
 
+**_HtmlEncoder API by Microsoft_** <br />
+HtmlEncoder Class : https://docs.microsoft.com/en-us/dotnet/api/system.text.encodings.web.htmlencoder?view=netcore-3.1 <br />
+
+**_HtmlString API by Microsoft_** <br />
+HtmlString Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.htmlstring?view=netframework-4.8 <br />
+
 **_HttpRequest API by Microsoft_** <br />
 HttpRequest Class : https://docs.microsoft.com/en-us/dotnet/api/system.web.httprequest?view=netframework-4.8 <br />
 HttpRequest.PhysicalPath Property : https://docs.microsoft.com/en-us/dotnet/api/system.web.httprequest.physicalpath?view=netframework-4.8 <br />
@@ -376,6 +382,8 @@ RazorPage.BeginAddHtmlAttributeValues(TagHelperExecutionContext, String, Int32, 
 RazorPage.AddHtmlAttributeValue(String, Int32, Object, Int32, Int32, Boolean) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.addhtmlattributevalue?view=aspnetcore-1.1 <br />
 RazorPage.EnsureRenderedBodyOrSections Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.ensurerenderedbodyorsections?view=aspnetcore-3.1 <br />
 RazorPage.WriteLiteral(Object) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.writeliteral?view=aspnetcore-1.1 <br />
+RazorPage.InvalidTagHelperIndexerAssignment(String, String, String) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.invalidtaghelperindexerassignment?view=aspnetcore-1.1&viewFallbackFrom=aspnetcore-3.1 <br />
+RazorPage.FlushAsync Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.flushasync?view=aspnetcore-1.1 <br />
 
 **_RazorPageBase API by Microsoft_** <br />
 RazorPageBase.BodyContent Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.bodycontent?view=aspnetcore-3.1 <br />
@@ -388,6 +396,7 @@ RazorPageBase.ExecuteAsync Method : https://docs.microsoft.com/en-us/dotnet/api/
 RazorPageBase.PushWriter(TextWriter) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.pushwriter?view=aspnetcore-3.1 <br />
 RazorPageBase.PopWriter Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.popwriter?view=aspnetcore-3.1 <br />
 RazorPageBase.WriteAttributeValue(String, Int32, Object, Int32, Int32, Boolean) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.writeattributevalue?view=aspnetcore-3.1 <br />
+RazorPageBase.StartTagHelperWritingScope(HtmlEncoder) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.starttaghelperwritingscope?view=aspnetcore-3.1 <br />
 
 **_RedirectToActionResult API by Microsoft_** <br />
 RedirectToActionResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.redirecttoactionresult?view=aspnetcore-3.1 <br />
