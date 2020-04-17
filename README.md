@@ -372,6 +372,7 @@ RazorPage.DefineSection(String, RenderAsyncDelegate) Method : https://docs.micro
 RazorPage.BeginAddHtmlAttributeValues(TagHelperExecutionContext, String, Int32, HtmlAttributeValueStyle) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.beginaddhtmlattributevalues?view=aspnetcore-1.1 <br />
 RazorPage.AddHtmlAttributeValue(String, Int32, Object, Int32, Int32, Boolean) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.addhtmlattributevalue?view=aspnetcore-1.1 <br />
 RazorPage.EnsureRenderedBodyOrSections Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpage.ensurerenderedbodyorsections?view=aspnetcore-3.1 <br />
+RazorPageBase.PushWriter(TextWriter) Method : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.pushwriter?view=aspnetcore-3.1 <br />
 
 **_RazorPageBase API by Microsoft_** <br />
 RazorPageBase.BodyContent Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.razor.razorpagebase.bodycontent?view=aspnetcore-3.1 <br />
