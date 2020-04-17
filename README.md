@@ -413,6 +413,12 @@ RowDefinition Class : https://docs.microsoft.com/en-us/dotnet/api/system.windows
 **_SignInResult API by Microsoft_** <br /> 
 SignInResult Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.signinresult?view=aspnetcore-3.1 <br />
 
+**_StaticFileOptions.OnPrepareResponse API by Microsoft_** <br /> 
+StaticFileOptions.OnPrepareResponse Property : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.staticfileoptions.onprepareresponse?view=aspnetcore-3.1 <br />
+
+**_StaticFileResponseContext API by Microsoft_** <br /> 
+StaticFileResponseContext Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.staticfiles.staticfileresponsecontext?view=aspnetcore-3.1 <br />
+
 **_StatusCodes API by Microsoft_** <br /> 
 StatusCodes Class : https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.statuscodes?view=aspnetcore-3.1 <br />
 
